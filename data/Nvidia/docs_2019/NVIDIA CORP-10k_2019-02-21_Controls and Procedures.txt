@@ -1,0 +1,23 @@
+NVIDIA CORP 10K 2019-02-21 
+  ITEM 9A. CONTROLS AND PROCEDURES 
+
+Controls and Procedures 
+
+Disclosure Controls and Procedures 
+
+Based on their evaluation as of January 27, 2019 , our management, including our Chief Executive Officer and Chief Financial Officer, has concluded that our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended, or the Exchange Act) were effective to provide reasonable assurance. 
+
+Management&#8217;s Annual Report on Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of January 27, 2019 &#32;based on the criteria set forth in Internal Control - Integrated Framework (2013) &#32;issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation under the criteria set forth in Internal Control &#8212; Integrated Framework , our management concluded that our internal control over financial reporting was effective as of January 27, 2019 . 
+
+The effectiveness of our internal control over financial reporting as of January 27, 2019 &#32;has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in its report which is included herein. 
+
+Changes in Internal Control Over Financial Reporting 
+
+There were no changes in our internal control over financial reporting during our last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Inherent Limitations on Effectiveness of Controls 
+
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls, will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within NVIDIA have been detected. 
+

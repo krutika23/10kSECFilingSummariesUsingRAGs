@@ -1,0 +1,23 @@
+NVIDIA CORP 10K 2019-02-21 
+  ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Investment and Interest Rate Risk 
+
+We are exposed to interest rate risk related to our floating and fixed-rate investment portfolio and outstanding debt. The investment portfolio is managed consistent with our overall liquidity strategy in support of both working capital needs and strategic growth of our businesses. 
+
+As of January 27, 2019 , we performed a sensitivity analysis on our floating and fixed rate financial investments. According to our analysis, parallel shifts in the yield curve of plus or minus 0.5% would result in a decrease in fair value for these investments of $8 million, or an increase in fair value for these investments of $7 million , respectively. 
+
+In fiscal year 2017, we issued $1.00 billion of the Notes Due 2021 and $1.00 billion of the Notes Due 2026. We carry the Notes at face value less unamortized discount on our Consolidated Balance Sheets. As the Notes bear interest at a fixed rate, we have no financial statement risk associated with changes in interest rates. Refer to Note 11 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Foreign Exchange Rate Risk 
+
+We consider our direct exposure to foreign exchange rate fluctuations to be minimal. Gains or losses from foreign currency remeasurement are included in other income or expense and to date have not been significant. The impact of foreign currency transaction gain or loss included in determining net income was not significant for fiscal years 2019, 2018, and 2017. 
+
+Sales and arrangements with third-party manufacturers provide for pricing and payment in United States dollars, and, therefore, are not subject to exchange rate fluctuations. Increases in the value of the United States&#8217; dollar relative to other currencies would make our products more expensive, which could negatively impact our ability to compete. Conversely, decreases in the value of the United States&#8217; dollar relative to other currencies could result in our suppliers raising their prices in order to continue doing business with us. Additionally, we have international operations and incur expenditures in currencies other than U.S. dollars. Our operating expenses benefit from a stronger dollar and are adversely affected by a weaker dollar. 
+
+We use foreign currency forward contracts to mitigate the impact of foreign currency exchange rate movements on our operating expenses. We designate these contracts as cash flow hedges and assess the effectiveness of the hedge relationships on a spot to spot basis. Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss, and then reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur. 
+
+We also use foreign currency forward contracts to mitigate the impact of foreign currency movements on monetary assets and liabilities that are denominated in currencies other than U.S. dollar. These forward contracts were not designated for hedge accounting treatment. Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense. 
+
+Refer to Note 10 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+

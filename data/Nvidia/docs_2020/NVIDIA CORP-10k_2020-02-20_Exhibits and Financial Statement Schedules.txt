@@ -1,0 +1,8637 @@
+NVIDIA CORP 10K 2020-02-20 
+  ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULE 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Page 
+
+(a) 
+
+1. 
+
+&#160; 
+
+Financial Statements 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Report of Independent Registered Public Accounting Firm 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consolidated Statements of Income for the years ended January 26, 2020, January 27, 2019, and January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consolidated Statements of Comprehensive Income for the years ended January 26, 2020, January 27, 2019, and January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consolidated Balance Sheets as of January 26, 2020 and January 27, 2019 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consolidated Statements of Shareholders&#8217; Equity for the years ended January 26, 2020, January 27, 2019, and January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Consolidated Statements of Cash Flows for the years ended January 26, 2020, January 27, 2019, and January 28, 2018 &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Notes to the Consolidated Financial Statements 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2. 
+
+&#160; 
+
+Financial Statement Schedule 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Schedule II Valuation and Qualifying Accounts for the years ended January 26, 2020, January 27, 2019, January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+3. 
+
+&#160; 
+
+Exhibits 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as a part of this Annual Report on Form 10-K. 
+
+##TABLE_END
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Stockholders and Board of Directors of NVIDIA Corporation 
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting 
+
+We have audited the accompanying consolidated balance sheets of NVIDIA Corporation and its subsidiaries (the "Company") as of January 26, 2020 and January 27, 2019, and the related consolidated statements of income, comprehensive income, shareholders&#8217; equity and cash flows for each of the three years in the period ended January 26, 2020, including the related notes and financial statement schedule listed in the index appearing under Item 15(a)(2) (collectively referred to as the &#8220;consolidated financial statements&#8221;). We also have audited the Company's internal control over financial reporting as of January 26, 2020, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). 
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of January 26, 2020 and January 27, 2019, and the results of its operations and its cash flows for each of the three years in the period ended January 26, 2020 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of January 26, 2020, based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO. 
+
+Change in Accounting Principle 
+
+As discussed in Note 3 to the consolidated financial statements, the Company changed the manner in which it accounts for leases in fiscal year 2020. 
+
+Basis for Opinions 
+
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management's Annual Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company&#8217;s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects. 
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions. 
+
+Definition and Limitations of Internal Control over Financial Reporting 
+
+A company&#8217;s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company&#8217;s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management 
+
+and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company&#8217;s assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Critical Audit Matters 
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Valuation of Inventories - Provisions for Excess or Obsolete Inventories 
+
+As described in Note 1 to the consolidated financial statements, the Company charges cost of sales for inventory provisions to write down inventory to the lower of cost or net realizable value or to completely write off obsolete or excess inventory. Most of the Company&#8217;s inventory provisions relate to the write-off of excess quantities of products, based on the Company&#8217;s inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions. Management applies significant judgment in the valuation of inventories, which involves estimating future demand and market conditions. As of January 26, 2020, the Company&#8217;s consolidated inventories balance was $979 million. 
+
+The principal considerations for our determination that performing procedures relating to the valuation of inventories, specifically the provisions for excess or obsolete inventories, is a critical audit matter are that there was significant judgment by management when developing their provisions for excess or obsolete inventories, including management&#8217;s assumptions related to future demand and market conditions. This in turn led to significant auditor judgment, subjectivity, and effort in performing procedures over the provisions for excess or obsolete inventories, which included evaluating management&#8217;s assumptions related to future demand and market conditions. 
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management&#8217;s provisions for excess or obsolete inventories, including controls over management&#8217;s assumptions related to future demand and market conditions. These procedures also included, among others, testing management&#8217;s process for developing the provisions for excess or obsolete inventories; evaluating the appropriateness of management&#8217;s approach; testing the completeness, accuracy, and relevance of underlying data used in the approach; and evaluating the reasonableness of management&#8217;s assumptions related to future demand and market conditions. Evaluating management&#8217;s assumptions related to future demand and market conditions involved evaluating whether the assumptions used by management were reasonable considering (i) current and past results, including historical product life cycle, (ii) the consistency with external market and industry data, (iii) changes in technology, and (iv) comparing prior period estimates to actual results of the same period. 
+
+/s/ PricewaterhouseCoopers LLP 
+
+San Jose, California 
+
+February 20, 2020 
+
+We have served as the Company&#8217;s auditor since 2004. &#160; 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF INCOME 
+
+(In millions, except per share data) 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+Revenue 
+
+$ 
+
+10,918 
+
+&#160; 
+
+$ 
+
+11,716 
+
+&#160; 
+
+$ 
+
+9,714 
+
+Cost of revenue 
+
+4,150 
+
+&#160; 
+
+4,545 
+
+&#160; 
+
+3,892 
+
+Gross profit 
+
+6,768 
+
+&#160; 
+
+7,171 
+
+&#160; 
+
+5,822 
+
+Operating expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Research and development 
+
+2,829 
+
+&#160; 
+
+2,376 
+
+&#160; 
+
+1,797 
+
+Sales, general and administrative 
+
+1,093 
+
+&#160; 
+
+&#160; 
+
+Total operating expenses 
+
+3,922 
+
+&#160; 
+
+3,367 
+
+&#160; 
+
+2,612 
+
+Income from operations 
+
+2,846 
+
+&#160; 
+
+3,804 
+
+&#160; 
+
+3,210 
+
+Interest income 
+
+&#160; 
+
+&#160; 
+
+Interest expense 
+
+( 52 
+
+) 
+
+&#160; 
+
+( 58 
+
+) 
+
+&#160; 
+
+( 61 
+
+) 
+
+Other, net 
+
+( 2 
+
+) 
+
+&#160; 
+
+&#160; 
+
+( 22 
+
+) 
+
+Total other income (expense) 
+
+&#160; 
+
+&#160; 
+
+( 14 
+
+) 
+
+Income before income tax 
+
+2,970 
+
+&#160; 
+
+3,896 
+
+&#160; 
+
+3,196 
+
+Income tax expense (benefit) 
+
+&#160; 
+
+( 245 
+
+) 
+
+&#160; 
+
+Net income 
+
+$ 
+
+2,796 
+
+&#160; 
+
+$ 
+
+4,141 
+
+&#160; 
+
+$ 
+
+3,047 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income per share: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+$ 
+
+4.59 
+
+&#160; 
+
+$ 
+
+6.81 
+
+&#160; 
+
+$ 
+
+5.09 
+
+Diluted 
+
+$ 
+
+4.52 
+
+&#160; 
+
+$ 
+
+6.63 
+
+&#160; 
+
+$ 
+
+4.82 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Weighted average shares used in per share computation: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+&#160; 
+
+&#160; 
+
+Diluted 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+See accompanying notes to the consolidated financial statements. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+
+(In millions) 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+2,796 
+
+&#160; 
+
+$ 
+
+4,141 
+
+&#160; 
+
+$ 
+
+3,047 
+
+Other comprehensive income (loss), net of tax 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Available-for-sale debt securities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net unrealized gain (loss) 
+
+&#160; 
+
+&#160; 
+
+( 5 
+
+) 
+
+Reclassification adjustments for net realized gain included in net income 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Net change in unrealized gain (loss) 
+
+&#160; 
+
+&#160; 
+
+( 4 
+
+) 
+
+Cash flow hedges: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net unrealized gain (loss) 
+
+&#160; 
+
+&#160; 
+
+( 1 
+
+) 
+
+Reclassification adjustments for net realized gain (loss) included in net income 
+
+( 5 
+
+) 
+
+&#160; 
+
+( 11 
+
+) 
+
+&#160; 
+
+Net change in unrealized gain (loss) 
+
+&#160; 
+
+( 5 
+
+) 
+
+&#160; 
+
+Other comprehensive income (loss), net of tax 
+
+&#160; 
+
+&#160; 
+
+( 2 
+
+) 
+
+Total comprehensive income 
+
+$ 
+
+2,809 
+
+&#160; 
+
+$ 
+
+4,147 
+
+&#160; 
+
+$ 
+
+3,045 
+
+##TABLE_END
+
+See accompanying notes to the consolidated financial statements. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(In millions, except par value) 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+ASSETS 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Current assets: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash and cash equivalents 
+
+$ 
+
+10,896 
+
+&#160; 
+
+$ 
+
+Marketable securities 
+
+&#160; 
+
+6,640 
+
+Accounts receivable, net 
+
+1,657 
+
+&#160; 
+
+1,424 
+
+Inventories 
+
+&#160; 
+
+1,575 
+
+Prepaid expenses and other current assets 
+
+&#160; 
+
+Total current assets 
+
+13,690 
+
+&#160; 
+
+10,557 
+
+Property and equipment, net 
+
+1,674 
+
+&#160; 
+
+1,404 
+
+Operating lease assets 
+
+&#160; 
+
+&#8212; 
+
+Goodwill 
+
+&#160; 
+
+Intangible assets, net 
+
+&#160; 
+
+Deferred income tax assets 
+
+&#160; 
+
+Other assets 
+
+&#160; 
+
+Total assets 
+
+$ 
+
+17,315 
+
+&#160; 
+
+$ 
+
+13,292 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+
+Current liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Accounts payable 
+
+$ 
+
+&#160; 
+
+$ 
+
+Accrued and other current liabilities 
+
+1,097 
+
+&#160; 
+
+Total current liabilities 
+
+1,784 
+
+&#160; 
+
+1,329 
+
+Long-term debt 
+
+1,991 
+
+&#160; 
+
+1,988 
+
+Long-term operating lease liabilities 
+
+&#160; 
+
+&#8212; 
+
+Other long-term liabilities 
+
+&#160; 
+
+Total liabilities 
+
+5,111 
+
+&#160; 
+
+3,950 
+
+Commitments and contingencies - see Note 13 
+
+&#160; 
+
+Shareholders&#8217; equity: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Preferred stock, $.001 par value; 2 shares authorized; none issued 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Common stock, $.001 par value; 2,000 shares authorized; 955 shares issued and 612 outstanding as of January 26, 2020; 945 shares issued and 606 outstanding as of January 27, 2019 
+
+&#160; 
+
+Additional paid-in capital 
+
+7,045 
+
+&#160; 
+
+6,051 
+
+Treasury stock, at cost (342 shares in 2020 and 339 shares in 2019) 
+
+( 9,814 
+
+) 
+
+&#160; 
+
+( 9,263 
+
+) 
+
+Accumulated other comprehensive income (loss) 
+
+&#160; 
+
+( 12 
+
+) 
+
+Retained earnings 
+
+14,971 
+
+&#160; 
+
+12,565 
+
+Total shareholders' equity 
+
+12,204 
+
+&#160; 
+
+9,342 
+
+Total liabilities and shareholders' equity 
+
+$ 
+
+17,315 
+
+&#160; 
+
+$ 
+
+13,292 
+
+##TABLE_END
+
+See accompanying notes to the consolidated financial statements. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS&#8217; EQUITY ##TABLE_START &#160; 
+
+Common Stock 
+
+Outstanding 
+
+&#160; 
+
+Additional 
+
+&#160; 
+
+Treasury 
+
+&#160; 
+
+Accumulated Other Comprehensive 
+
+&#160; 
+
+Retained 
+
+&#160; 
+
+Total Shareholders' 
+
+(In millions, except per share data) 
+
+Shares 
+
+&#160; 
+
+Amount 
+
+&#160; 
+
+Paid-in Capital 
+
+&#160; 
+
+Stock 
+
+&#160; 
+
+Income (Loss) 
+
+&#160; 
+
+Earnings 
+
+&#160; 
+
+Equity 
+
+Balances, January 29, 2017 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+4,708 
+
+&#160; 
+
+$ 
+
+( 5,039 
+
+) 
+
+&#160; 
+
+$ 
+
+( 16 
+
+) 
+
+&#160; 
+
+$ 
+
+6,108 
+
+&#160; 
+
+$ 
+
+5,762 
+
+Retained earnings adjustment due to adoption of an accounting standard related to stock-based compensation 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 27 
+
+) 
+
+&#160; 
+
+( 27 
+
+) 
+
+Other comprehensive loss 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 2 
+
+) 
+
+Net income 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+3,047 
+
+&#160; 
+
+3,047 
+
+Issuance of common stock in exchange for warrants 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Convertible debt conversion 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 7 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 7 
+
+) 
+
+Issuance of common stock from stock plans 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Tax withholding related to vesting of restricted stock units 
+
+( 4 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 612 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 612 
+
+) 
+
+Share repurchase 
+
+( 6 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 909 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 909 
+
+) 
+
+Exercise of convertible note hedges 
+
+( 33 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+( 90 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Cash dividends declared and paid ($0.570 per common share) 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 341 
+
+) 
+
+&#160; 
+
+( 341 
+
+) 
+
+Stock-based compensation 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Reclassification of convertible debt conversion obligation 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Balances, January 28, 2018 
+
+&#160; 
+
+&#160; 
+
+5,351 
+
+&#160; 
+
+( 6,650 
+
+) 
+
+&#160; 
+
+( 18 
+
+) 
+
+&#160; 
+
+8,787 
+
+&#160; 
+
+7,471 
+
+Retained earnings adjustment due to adoption of an accounting standard related to income tax consequences of an intra-entity transfer of an asset 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Other comprehensive income 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Net income 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+4,141 
+
+&#160; 
+
+4,141 
+
+Convertible debt conversion 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Issuance of common stock from stock plans 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Tax withholding related to vesting of restricted stock units 
+
+( 4 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1,032 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1,032 
+
+) 
+
+Share repurchase 
+
+( 9 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1,579 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1,579 
+
+) 
+
+Exercise of convertible note hedges 
+
+( 1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+( 2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Cash dividends declared and paid ($0.610 per common share) 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 371 
+
+) 
+
+&#160; 
+
+( 371 
+
+) 
+
+Stock-based compensation 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Balances, January 27, 2019 
+
+&#160; 
+
+&#160; 
+
+6,051 
+
+&#160; 
+
+( 9,263 
+
+) 
+
+&#160; 
+
+( 12 
+
+) 
+
+&#160; 
+
+12,565 
+
+&#160; 
+
+9,342 
+
+Other comprehensive income 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Net income 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+2,796 
+
+&#160; 
+
+2,796 
+
+Issuance of common stock from stock plans 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Tax withholding related to vesting of restricted stock units 
+
+( 3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 551 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 551 
+
+) 
+
+Cash dividends declared and paid ($0.640 per common share) 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 390 
+
+) 
+
+&#160; 
+
+( 390 
+
+) 
+
+Stock-based compensation 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Balances, January 26, 2020 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+7,045 
+
+&#160; 
+
+$ 
+
+( 9,814 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+14,971 
+
+&#160; 
+
+$ 
+
+12,204 
+
+##TABLE_END
+
+See accompanying notes to the consolidated financial statements. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(In millions) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+Year Ended 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+Cash flows from operating activities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+2,796 
+
+&#160; 
+
+$ 
+
+4,141 
+
+&#160; 
+
+$ 
+
+3,047 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Stock-based compensation expense 
+
+&#160; 
+
+&#160; 
+
+Depreciation and amortization 
+
+&#160; 
+
+&#160; 
+
+Deferred income taxes 
+
+&#160; 
+
+( 315 
+
+) 
+
+&#160; 
+
+( 359 
+
+) 
+
+Loss on early debt conversions 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Other 
+
+&#160; 
+
+( 45 
+
+) 
+
+&#160; 
+
+Changes in operating assets and liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Accounts receivable 
+
+( 233 
+
+) 
+
+&#160; 
+
+( 149 
+
+) 
+
+&#160; 
+
+( 440 
+
+) 
+
+Inventories 
+
+&#160; 
+
+( 776 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Prepaid expenses and other assets 
+
+&#160; 
+
+( 55 
+
+) 
+
+&#160; 
+
+Accounts payable 
+
+&#160; 
+
+( 135 
+
+) 
+
+&#160; 
+
+Accrued and other current liabilities 
+
+&#160; 
+
+&#160; 
+
+Other long-term liabilities 
+
+&#160; 
+
+&#160; 
+
+Net cash provided by operating activities 
+
+4,761 
+
+&#160; 
+
+3,743 
+
+&#160; 
+
+3,502 
+
+Cash flows from investing activities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Proceeds from maturities of marketable securities 
+
+4,744 
+
+&#160; 
+
+7,232 
+
+&#160; 
+
+1,078 
+
+Proceeds from sales of marketable securities 
+
+3,365 
+
+&#160; 
+
+&#160; 
+
+Purchases of marketable securities 
+
+( 1,461 
+
+) 
+
+&#160; 
+
+( 11,148 
+
+) 
+
+&#160; 
+
+( 36 
+
+) 
+
+Purchases of property and equipment and intangible assets 
+
+( 489 
+
+) 
+
+&#160; 
+
+( 600 
+
+) 
+
+&#160; 
+
+( 593 
+
+) 
+
+Investments and other, net 
+
+( 14 
+
+) 
+
+&#160; 
+
+( 9 
+
+) 
+
+&#160; 
+
+( 36 
+
+) 
+
+Proceeds from sale of long-lived assets and investments 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Net cash provided by (used in) investing activities 
+
+6,145 
+
+&#160; 
+
+( 4,097 
+
+) 
+
+&#160; 
+
+1,278 
+
+Cash flows from financing activities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Payments related to repurchases of common stock 
+
+&#8212; 
+
+&#160; 
+
+( 1,579 
+
+) 
+
+&#160; 
+
+( 909 
+
+) 
+
+Repayment of Convertible Notes 
+
+&#8212; 
+
+&#160; 
+
+( 16 
+
+) 
+
+&#160; 
+
+( 812 
+
+) 
+
+Dividends paid 
+
+( 390 
+
+) 
+
+&#160; 
+
+( 371 
+
+) 
+
+&#160; 
+
+( 341 
+
+) 
+
+Proceeds related to employee stock plans 
+
+&#160; 
+
+&#160; 
+
+Payments related to tax on restricted stock units 
+
+( 551 
+
+) 
+
+&#160; 
+
+( 1,032 
+
+) 
+
+&#160; 
+
+( 612 
+
+) 
+
+Other 
+
+&#8212; 
+
+&#160; 
+
+( 5 
+
+) 
+
+&#160; 
+
+( 9 
+
+) 
+
+Net cash used in financing activities 
+
+( 792 
+
+) 
+
+&#160; 
+
+( 2,866 
+
+) 
+
+&#160; 
+
+( 2,544 
+
+) 
+
+Change in cash and cash equivalents 
+
+10,114 
+
+&#160; 
+
+( 3,220 
+
+) 
+
+&#160; 
+
+2,236 
+
+Cash and cash equivalents at beginning of period 
+
+&#160; 
+
+4,002 
+
+&#160; 
+
+1,766 
+
+Cash and cash equivalents at end of period 
+
+$ 
+
+10,896 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+4,002 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+Supplemental disclosures of cash flow information: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash paid for income taxes, net 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Cash paid for interest 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Non-cash investing and financing activity: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Assets acquired by assuming related liabilities 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+See accompanying notes to the consolidated financial statements. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+Note 1 - Organization and Summary of Significant Accounting Policies 
+
+Our Company 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+All references to &#8220;NVIDIA,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221; mean NVIDIA Corporation and its subsidiaries. 
+
+Fiscal Year 
+
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2020, 2019 and 2018 were 52-week years. Fiscal year 2021 will be a 53-week year. 
+
+Reclassifications 
+
+Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation. 
+
+Principles of Consolidation 
+
+Our consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other charges, and other contingencies. These estimates are based on historical facts and various other assumptions that we believe are reasonable. 
+
+Revenue Recognition 
+
+We derive our revenue from product sales, including hardware and systems, license and development arrangements, and software licensing. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract; and (5) recognition of revenue when, or as, we satisfy a performance obligation. 
+
+Product Sales Revenue 
+
+Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products. Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers. 
+
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. 
+
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners&#8217; activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+License and Development Arrangements 
+
+Our license and development arrangements with customers typically require significant customization of our intellectual property components. As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed. We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project. If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period. 
+
+Software Licensing 
+
+Our software licenses provide our customers with a right to use the software when it is made available to the customer. Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software. Software licenses are frequently sold along with post-contract customer support, or PCS. For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation. Revenue from software licenses is recognized up front when the software is made available to the customer. PCS revenue is recognized ratably over the service period, or as services are performed. 
+
+Advertising Expenses 
+
+We expense advertising costs in the period in which they are incurred. Advertising expenses for fiscal years 2020 , 2019 , and 2018 were $ 15 million , $ 21 million , and $ 25 million , respectively. 
+
+Product Warranties 
+
+We generally offer a limited warranty to end-users that ranges from one to three years for products in order to repair or replace products for any manufacturing defects or hardware component failures. Cost of revenue includes the estimated cost of product warranties that are calculated at the point of revenue recognition. Under limited circumstances, we may offer an extended limited warranty to customers for certain products. We also accrue for known warranty and indemnification issues if a loss is probable and can be reasonably estimated. 
+
+Stock-based Compensation 
+
+We use the closing trading price of our common stock on the date of grant, minus a dividend yield discount, as the fair value of awards of restricted stock units, or RSUs, and performance stock units that are based on our corporate financial performance targets, or PSUs. We use a Monte Carlo simulation on the date of grant to estimate the fair value of performance stock units that are based on market conditions, or market-based PSUs. The compensation expense for RSUs and market-based PSUs is recognized using a straight-line attribution method over the requisite employee service period while compensation expense for PSUs is recognized using an accelerated amortization model. We estimate the fair value of shares to be issued under our employee stock purchase plan, or ESPP, using the Black-Scholes model at the commencement of an offering period in March and September of each year. Stock-based compensation for our ESPP is expensed using an accelerated amortization model. Additionally, we estimate forfeitures annually based on historical experience and revise the estimates of forfeiture in subsequent periods if actual forfeitures differ from those estimates. 
+
+Litigation, Investigation and Settlement Costs 
+
+From time to time, we are involved in legal actions and/or investigations by regulatory bodies. There are many uncertainties associated with any litigation or investigation, and we cannot be certain that these actions or other third-party claims against us will be resolved without litigation, fines and/or substantial settlement payments. If information becomes available that causes us to determine that a loss in any of our pending litigation, investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will record the loss in accordance with U.S. GAAP. However, the actual liability in any such litigation or investigation may be materially different from our estimates, which could require us to record additional costs. 
+
+Foreign Currency Remeasurement 
+
+We use the United States dollar as our functional currency for all of our subsidiaries. Foreign currency monetary assets and liabilities are remeasured into United States dollars at end-of-period exchange rates. Non-monetary assets and liabilities such as property and equipment, and equity are remeasured at historical exchange rates. Revenue and expenses are remeasured at average exchange rates in effect during each period, except for those expenses related to the previously noted balance sheet amounts, which are remeasured at historical exchange rates. Gains or losses from foreign currency 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+remeasurement are included in other income or expense in our Consolidated Statements of Income and to date have not been significant. 
+
+Income Taxes 
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized. 
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the United States, or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential United States and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly. 
+
+As of January 26, 2020 , we had a valuation allowance of $ 621 million related to state and certain foreign deferred tax assets that management determined are not likely to be realized due to jurisdictional projections of future taxable income and potential utilization limitations of tax attributes acquired as a result of stock ownership changes. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax asset as an income tax benefit during the period. 
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense. 
+
+Net Income Per Share 
+
+Basic net income per share is computed using the weighted average number of common shares outstanding during the period. Diluted net income per share is computed using the weighted average number of common and potentially dilutive shares outstanding during the period, using the treasury stock method. Under the treasury stock method, the effect of equity awards outstanding is not included in the computation of diluted net income per share for periods when their effect is anti-dilutive. 
+
+Cash and Cash Equivalents 
+
+We consider all highly liquid investments that are readily convertible into cash and have an original maturity of three months or less at the time of purchase to be cash equivalents. 
+
+Marketable Securities 
+
+Marketable securities consist of highly liquid debt investments with maturities of greater than three months when purchased. We generally classify our marketable securities at the date of acquisition as available-for-sale. These debt securities are reported at fair value with the related unrealized gains and losses included in accumulated other comprehensive income or loss, a component of shareholders&#8217; equity, net of tax. The fair value of interest-bearing debt securities includes accrued interest. Any unrealized losses which are considered to be other-than-temporary impairments are recorded in the other income or expense, net, section of our Consolidated Statements of Income. Realized gains and losses on the sale of marketable securities are determined using the specific-identification method and recorded in the other income or expense, net, section of our Consolidated Statements of Income. 
+
+All of our available-for-sale debt investments are subject to a periodic impairment review. We record a charge to earnings when a decline in fair value is significantly below cost basis and judged to be other-than-temporary or have other indicators of impairments. If the fair value of an available-for-sale debt instrument is less than its amortized cost basis, an other-than-temporary impairment is triggered in circumstances where (1) we intend to sell the instrument, (2) it is more likely than not that we will be required to sell the instrument before recovery of its amortized cost basis, or (3) a credit loss exists where we do not expect to recover the entire amortized cost basis of the instrument. In these situations, we recognize an 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+other-than-temporary impairment in earnings equal to the entire difference between the debt instruments&#8217; amortized cost basis and its fair value. For available-for-sale debt instruments that are considered other-than-temporarily impaired due to the existence of a credit loss, if we do not intend to sell and it is not likely that we will be required to sell the instrument before recovery of its remaining amortized cost basis (amortized cost basis less any current-period credit loss), we separate the amount of the impairment into the amount that is credit related and the amount due to all other factors. The credit loss component is recognized in earnings while loss related to all other factors is recorded in accumulated other comprehensive income or loss. 
+
+Fair Value of Financial Instruments 
+
+The carrying value of cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their fair values due to their relatively short maturities as of January 26, 2020 and January 27, 2019 . Marketable securities are comprised of available-for-sale securities that are reported at fair value with the related unrealized gains or losses included in accumulated other comprehensive income or loss, a component of shareholders&#8217; equity, net of tax. Fair value of the marketable securities is determined based on quoted market prices. Derivative instruments are recognized as either assets or liabilities and are measured at fair value. The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. For derivative instruments designated as fair value hedges, the gains or losses are recognized in earnings in the periods of change together with the offsetting losses or gains on the hedged items attributed to the risk being hedged. For derivative instruments designated as cash-flow hedges, the effective portion of the gains or losses on the derivatives is initially reported as a component of other comprehensive income or loss and is subsequently recognized in earnings when the hedged exposure is recognized in earnings. For derivative instruments not designated for hedge accounting, changes in fair value are recognized in earnings. 
+
+Concentration of Credit Risk 
+
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash equivalents, marketable securities, and accounts receivable. Our investment policy requires the purchase of highly-rated fixed income securities, the diversification of investment type and credit exposures, and includes certain limits on our portfolio duration. Accounts receivable from significant customers, those representing 10% or more of total accounts receivable, was approximately 21 % of our accounts receivable balance from one customer as of January 26, 2020 and 19 % of our accounts receivable balance from one customer as of January 27, 2019 . We perform ongoing credit evaluations of our customers&#8217; financial condition and maintain an allowance for potential credit losses. This allowance consists of an amount identified for specific customers and an amount based on overall estimated exposure. Our overall estimated exposure excludes amounts covered by credit insurance and letters of credit. 
+
+Accounts Receivable 
+
+We maintain an allowance for doubtful accounts receivable for estimated losses resulting from the inability of our customers to make required payments. We determine this allowance by identifying amounts for specific customer issues as well as amounts based on overall estimated exposure. Factors impacting the allowance include the level of gross receivables, the financial condition of our customers and the extent to which balances are covered by credit insurance or letters of credit. 
+
+Inventories 
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. Inventory costs consist primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, and shipping costs, as well as the cost of purchased memory products and other component parts. We charge cost of sales for inventory provisions to write down our inventory to the lower of cost or net realizable value or to completely write off obsolete or excess inventory. Most of our inventory provisions relate to the write-off of excess quantities of products, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions. Once inventory has been written-off or written-down, it creates a new cost basis for the inventory that is not subsequently written-up. 
+
+Property and Equipment 
+
+Property and equipment are stated at cost. Depreciation of property and equipment is computed using the straight-line method based on the estimated useful lives of the assets, generally three to five years . Once an asset is identified for retirement or disposition, the related cost and accumulated depreciation or amortization are removed, and a gain or loss is recorded. The estimated useful lives of our buildings are up to thirty years . Depreciation expense includes the amortization 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+of assets recorded under capital leases. Leasehold improvements and assets recorded under capital leases are amortized over the shorter of the expected lease term or the estimated useful life of the asset. 
+
+Leases 
+
+We determine if an arrangement is or contains a lease at inception. Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet. Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term. 
+
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate. Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense is recognized on a straight-line basis over the lease term. 
+
+We combine the lease and non-lease components in determining the operating lease assets and liabilities. 
+
+Refer to Note 3 of these Notes to the Consolidated Financial Statements for additional information. 
+
+Goodwill 
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier if indicators of potential impairment exist. For the purposes of completing our impairment test, we perform either a qualitative or a quantitative analysis on a reporting unit basis. 
+
+Qualitative factors include industry and market considerations, overall financial performance, and other relevant events and factors affecting the reporting units. 
+
+Our quantitative impairment test considers both the income approach and the market approach to estimate a reporting unit&#8217;s fair value. The income and market valuation approaches consider a number of factors that include, but are not limited to, prospective financial information, growth rates, residual values, discount rates and comparable multiples from publicly traded companies in our industry and require us to make certain assumptions and estimates regarding industry economic factors and the future profitability of our business. Refer to Note 6 of these Notes to the Consolidated Financial Statements for additional information. 
+
+Intangible Assets and Other Long-Lived Assets 
+
+Intangible assets primarily represent rights acquired under technology licenses, patents, acquired intellectual property, trademarks and customer relationships. We currently amortize our intangible assets with definitive lives over periods ranging from three to ten years using a method that reflects the pattern in which the economic benefits of the intangible asset are consumed or otherwise used up or, if that pattern cannot be reliably determined, using a straight-line amortization method. 
+
+Long-lived assets, such as property and equipment and intangible assets subject to amortization are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset or asset group to estimated undiscounted future cash flows expected to be generated by the asset, or asset group. If the carrying amount of an asset or asset group exceeds its estimated future cash flows, an impairment charge is recognized for the amount by which the carrying amount of the asset or asset group exceeds the estimated fair value of the asset or asset group. Fair value is determined based on the estimated discounted future cash flows expected to be generated by the asset or asset group. Assets and liabilities to be disposed of would be separately presented in the Consolidated Balance Sheet and the assets would be reported at the lower of the carrying amount or fair value less costs to sell, and would no longer be depreciated. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Recently Adopted Accounting Pronouncements 
+
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet. We adopted this guidance on January 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+28, 2019 using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet. Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information. 
+
+Recent Accounting Pronouncements Not Yet Adopted 
+
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities. We plan to adopt the standard using the modified retrospective transition method beginning in the first quarter of fiscal year 2021. We do not currently believe it will have a material impact upon adoption. 
+
+Note 2 - Acquisition of Mellanox Technologies, Ltd. 
+
+On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $ 125 per share in cash, representing a total enterprise value of approximately $ 6.9 billion as of the date of the Merger Agreement. The Merger Agreement contains customary representations, warranties and covenants. The consummation of the merger is conditioned on the receipt of the approval of Mellanox shareholders, as well as the satisfaction of other customary closing conditions, including domestic and foreign regulatory approvals and performance in all material respects by each party of its obligations under the Merger Agreement. In June 2019, Mellanox shareholders approved the consummation of the merger and we received regulatory approvals for the deal from Mexico in July 2019 and from the European Commission in December 2019. In addition, the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, in connection with the proposed acquisition expired in May 2019. Discussions with China's regulatory agency, the State Administration for Market Regulation, are progressing and we believe the acquisition will likely close in the early part of calendar 2020. If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $ 350 million . 
+
+Note 3 - New Lease Accounting Standard 
+
+Method and Impact of Adoption 
+
+On January 28, 2019, we adopted the new lease accounting standard using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet and not adjusting comparative information for prior periods. In addition, we elected the package of practical expedients permitted under the transition guidance, which allowed us not to reassess (1) whether any expired or existing contracts are or contain leases, (2) lease classification for any expired or existing leases, and (3) initial direct costs for any existing leases. 
+
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $ 470 million of operating lease assets and $ 500 million of operating lease liabilities on our Consolidated Balance Sheet. The difference of $ 30 million represents deferred rent for leases that existed as of the date of adoption, which was an offset to the opening balance of operating lease assets. 
+
+Lease Obligations 
+
+Our lease obligations consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2021 and 2035 . 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Future minimum lease payments under our operating leases as of January 26, 2020 , are as follows: 
+
+##TABLE_START &#160; 
+
+Operating Lease Obligations 
+
+&#160; 
+
+(In millions) 
+
+Fiscal Year: 
+
+&#160; 
+
+$ 
+
+2022 
+
+2023 
+
+2024 
+
+2025 
+
+2026 and thereafter 
+
+Total 
+
+Less imputed interest 
+
+Present value of net future minimum lease payments 
+
+Less short-term operating lease liabilities 
+
+Long-term operating lease liabilities 
+
+$ 
+
+##TABLE_END
+
+Future minimum lease payments under our non-cancelable operating leases as of January 27, 2019, based on the previous lease accounting standard, are as follows: 
+
+##TABLE_START &#160; 
+
+Lease Obligations 
+
+&#160; 
+
+(In millions) 
+
+Fiscal Year: 
+
+&#160; 
+
+$ 
+
+2021 
+
+2022 
+
+2023 
+
+2024 
+
+2025 and thereafter 
+
+Total 
+
+$ 
+
+##TABLE_END
+
+Operating lease expense for fiscal years 2020 , 2019, and 2018 was $ 114 million , $ 80 million , $ 54 million , respectively. Short-term and variable lease expenses for fiscal year 2020 were not significant. 
+
+Other information related to leases was as follows: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+(In millions) 
+
+Supplemental cash flows information 
+
+&#160; 
+
+Operating cash flows used for operating leases 
+
+$ 
+
+Operating lease assets obtained in exchange for lease obligations 
+
+$ 
+
+##TABLE_END
+
+As of January 26, 2020, our operating leases had a weighted average remaining lease term of 8.3 years and a weighted average discount rate of 3.45 % . 
+
+Note 4 - Stock-Based Compensation 
+
+Our stock-based compensation expense is associated with restricted stock units, or RSUs, performance stock units that are based on our corporate financial performance targets, or PSUs, performance stock units that are based on market conditions, or market-based PSUs, and our ESPP. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Our Consolidated Statements of Income include stock-based compensation expense, net of amounts allocated to inventory, as follows: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Cost of revenue 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Research and development 
+
+&#160; 
+
+&#160; 
+
+Sales, general and administrative 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+Stock-based compensation capitalized in inventories was not significant during fiscal years 2020 , 2019 , and 2018 . 
+
+The following is a summary of equity awards granted under our equity incentive plans: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions, except per share data) 
+
+RSUs, PSUs and Market-based PSUs 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Awards granted 
+
+&#160; 
+
+&#160; 
+
+Estimated total grant-date fair value 
+
+$ 
+
+1,282 
+
+&#160; 
+
+$ 
+
+1,109 
+
+&#160; 
+
+$ 
+
+Weighted average grant-date fair value per share 
+
+$ 
+
+184.47 
+
+&#160; 
+
+$ 
+
+258.26 
+
+&#160; 
+
+$ 
+
+145.91 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+ESPP 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Shares purchased 
+
+&#160; 
+
+&#160; 
+
+Weighted average price per share 
+
+$ 
+
+148.76 
+
+&#160; 
+
+$ 
+
+107.48 
+
+&#160; 
+
+$ 
+
+21.24 
+
+Weighted average grant-date fair value per share 
+
+$ 
+
+64.87 
+
+&#160; 
+
+$ 
+
+38.51 
+
+&#160; 
+
+$ 
+
+7.12 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Aggregate unearned stock-based compensation expense, net of forfeitures 
+
+$ 
+
+1,803 
+
+&#160; 
+
+$ 
+
+1,580 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Estimated weighted average remaining amortization period 
+
+(In years) 
+
+RSUs, PSUs and market-based PSUs 
+
+2.5 
+
+&#160; 
+
+2.2 
+
+ESPP 
+
+0.9 
+
+&#160; 
+
+0.8 
+
+##TABLE_END
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+The fair value of shares issued under our ESPP have been estimated with the following assumptions: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(Using the Black-Scholes model) 
+
+ESPP 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Weighted average expected life (in years) 
+
+0.1-2.0 
+
+&#160; 
+
+0.1-2.0 
+
+&#160; 
+
+0.5-2.0 
+
+Risk-free interest rate 
+
+1.5%-2.6% 
+
+&#160; 
+
+1.6%-2.8% 
+
+&#160; 
+
+0.8%-1.4% 
+
+Volatility 
+
+30%-82% 
+
+&#160; 
+
+24%-75% 
+
+&#160; 
+
+40%-54% 
+
+Dividend yield 
+
+0.3%-0.4% 
+
+&#160; 
+
+0.3%-0.4% 
+
+&#160; 
+
+0.3%-0.5% 
+
+##TABLE_END
+
+For ESPP shares, the expected term represents the average term from the first day of the offering period to the purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated using historical volatility. For awards granted, we use the dividend yield at grant date. Our RSU, PSU, and market-based PSU awards are not eligible for cash dividends prior to vesting; therefore, the fair values of RSUs, PSUs, and market-based PSUs are discounted for the dividend yield. 
+
+Additionally, for RSU, PSU, and market-based PSU awards, we estimate forfeitures annually and revise the estimates of forfeiture in subsequent periods if actual forfeitures differ from those estimates. Forfeitures are estimated based on historical experience. 
+
+Equity Incentive Program 
+
+We grant or have granted stock options, RSUs, PSUs, market-based PSUs, and stock purchase rights under the following equity incentive plans. 
+
+Amended and Restated 2007 Equity Incentive Plan 
+
+In 2007, our shareholders approved the NVIDIA Corporation 2007 Equity Incentive Plan, as most recently amended and restated, the 2007 Plan. 
+
+The 2007 Plan authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, restricted stock units, stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards to employees, directors and consultants. Only our employees may receive incentive stock options. Up to 230 million shares of our common stock may be issued pursuant to stock awards granted under the 2007 Plan. Currently, we grant RSUs, PSUs and market-based PSUs under the 2007 Plan, under which, as of January 26, 2020 , there were 29 million shares available for future issuance. 
+
+Stock options previously granted to employees, subject to certain exceptions, vested over a four -year period, subject to continued service, with 25 % vesting on the anniversary of the hire date in the case of new hires or the anniversary of the date of grant in the case of grants to existing employees and 6.25 % vesting quarterly thereafter. These stock options generally expire ten years from the date of grant. 
+
+Subject to certain exceptions, RSUs and PSUs granted to employees vest over a four -year period, subject to continued service, with 25 % vesting on a pre-determined date that is close to the anniversary of the date of grant and (i) for grants made prior to May 18, 2016, 12.5 % vesting semi-annually thereafter, and (ii) for grants made on or after May 18, 2016, 6.25 % vesting quarterly thereafter. Market-based PSUs vest 100 % on approximately the three -year anniversary of the date of grant. However, the number of shares subject to both PSUs and market-based PSUs that are eligible to vest is generally determined by the Compensation Committee based on achievement of pre-determined criteria. 
+
+Unless terminated sooner, the 2007 Plan is scheduled to terminate on March 21, 2022. Our Board may suspend or terminate the 2007 Plan at any time. No awards may be granted under the 2007 Plan while the 2007 Plan is suspended or after it is terminated. The Board may also amend the 2007 Plan at any time. However, if legal, regulatory or listing requirements require shareholder approval, the amendment will not go into effect until the shareholders have approved the amendment. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Amended and Restated 2012 Employee Stock Purchase Plan 
+
+In 2012, our shareholders approved the 2012 Employee Stock Purchase Plan, as most recently amended and restated, the 2012 Plan, as the successor to the 1998 Employee Stock Purchase Plan. 
+
+Up to 89 million shares of our common stock may be issued pursuant to purchases under the 2012 Plan. As of January 26, 2020 , we had issued 30 million shares and reserved 59 million shares for future issuance under the 2012 Plan. 
+
+The 2012 Plan is intended to qualify as an &#8220;employee stock purchase plan&#8221; under Section 423 of the Internal Revenue Code. Under the current offerings adopted pursuant to the 2012 Plan, each offering period is approximately 24 months , which is generally divided into four purchase periods of six months . 
+
+Employees or those employed by an affiliate of ours are eligible to participate as designated by the Board. Employees who participate may have up to 10 % of their earnings withheld to the purchase of shares of common stock. The Board may increase this percentage at its discretion, up to 15 % . The price of common stock purchased under our 2012 Plan will be equal to 85 % of the lower of the fair market value of the common stock on the commencement date of each offering period and the fair market value on each purchase date within the offering. 
+
+The following is a summary of our equity award transactions under our equity incentive plans: 
+
+##TABLE_START &#160; 
+
+RSUs, PSUs and Market-based PSUs Outstanding 
+
+&#160; 
+
+Number of Shares 
+
+&#160; 
+
+Weighted Average Grant-Date Fair Value 
+
+&#160; 
+
+(In millions, except years and per share data) 
+
+Balances, January 27, 2019 
+
+&#160; 
+
+$ 
+
+129.92 
+
+Granted (1)(2) 
+
+&#160; 
+
+$ 
+
+184.47 
+
+Vested restricted stock 
+
+( 8 
+
+) 
+
+&#160; 
+
+$ 
+
+92.70 
+
+Canceled and forfeited 
+
+( 1 
+
+) 
+
+&#160; 
+
+$ 
+
+185.46 
+
+Balances, January 26, 2020 
+
+&#160; 
+
+$ 
+
+176.72 
+
+Vested and expected to vest after January 26, 2020 
+
+&#160; 
+
+$ 
+
+176.46 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Includes the number of PSUs that will be issued and eligible to vest based on the corporate financial performance level achieved for fiscal year 2020 . 
+
+##TABLE_END##TABLE_START (2) 
+
+Includes the number of market-based PSUs granted that will be issued and eligible to vest if the maximum goal for total shareholder return, or TSR, over the 3 -year measurement period is achieved. Depending on the ranking of our TSR compared to those companies comprising the Standard &#38; Poor&#8217;s 500 Index during that period, the market-based PSUs issued could be up to 60 thousand shares. 
+
+##TABLE_END As of January 26, 2020 and January 27, 2019 , there were 29 million and 35 million shares, respectively, of common stock reserved for future issuance under our equity incentive plans. &#160; 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 5 - Net Income Per Share 
+
+The following is a reconciliation of the denominator of the basic and diluted net income per share computations for the periods presented: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions, except per share data) 
+
+Numerator: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net income 
+
+$ 
+
+2,796 
+
+&#160; 
+
+$ 
+
+4,141 
+
+&#160; 
+
+$ 
+
+3,047 
+
+Denominator: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic weighted average shares 
+
+&#160; 
+
+&#160; 
+
+Dilutive impact of outstanding securities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Equity awards 
+
+&#160; 
+
+&#160; 
+
+1.00% Convertible Senior Notes 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Warrants issued with the 1.00% Convertible Senior Notes 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Diluted weighted average shares 
+
+&#160; 
+
+&#160; 
+
+Net income per share: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic (1) 
+
+$ 
+
+4.59 
+
+&#160; 
+
+$ 
+
+6.81 
+
+&#160; 
+
+$ 
+
+5.09 
+
+Diluted (2) 
+
+$ 
+
+4.52 
+
+&#160; 
+
+$ 
+
+6.63 
+
+&#160; 
+
+$ 
+
+4.82 
+
+Equity awards excluded from diluted net income per share because their effect would have been anti-dilutive 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Calculated as net income divided by basic weighted average shares. 
+
+##TABLE_END ##TABLE_START (2) 
+
+Calculated as net income divided by diluted weighted average shares. 
+
+##TABLE_END 
+
+Note 6 - Goodwill 
+
+The carrying amount of goodwill was $ 618 million , and the amount of goodwill allocated to our GPU and Tegra Processor reporting units was $ 210 million and $ 408 million , respectively, as of both January 26, 2020 and January 27, 2019 . There were no changes to the carrying amount of goodwill during fiscal years 2020 and 2019. During the fourth quarters of fiscal years 2020, 2019, and 2018, we completed our annual impairment tests and concluded that goodwill was no t impaired in any of these years. 
+
+Note 7 - Amortizable Intangible Assets 
+
+The components of our amortizable intangible assets are as follows: 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+Gross &#160; 
+
+Carrying 
+
+Amount 
+
+&#160; 
+
+Accumulated 
+
+Amortization 
+
+&#160; 
+
+Net 
+
+Carrying 
+
+Amount 
+
+&#160; 
+
+Gross &#160; 
+
+Carrying 
+
+Amount 
+
+&#160; 
+
+Accumulated 
+
+Amortization 
+
+&#160; 
+
+Net 
+
+Carrying 
+
+Amount 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+(In millions) 
+
+Acquisition-related intangible assets 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 192 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 188 
+
+) 
+
+&#160; 
+
+$ 
+
+Patents and licensed technology 
+
+&#160; 
+
+( 474 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+( 453 
+
+) 
+
+&#160; 
+
+Total intangible assets 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 666 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 641 
+
+) 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+The increase in gross carrying amount of intangible assets is due to purchases of licensed technology during fiscal year 2020. Amortization expense associated with intangible assets for fiscal years 2020 , 2019 , and 2018 was $ 25 million , $ 29 million , and $ 55 million , respectively. Future amortization expense related to the net carrying amount of intangible assets as of 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+January 26, 2020 is estimated to be $ 19 million in fiscal year 2021 , $ 12 million in fiscal year 2022 , $ 9 million in fiscal year 2023 , $ 6 million in fiscal year 2024 , and $ 3 million in fiscal year 2025 and thereafter until fully amortized. 
+
+Note 8 - Cash Equivalents and Marketable Securities 
+
+Our cash equivalents and marketable securities are classified as &#8220;available-for-sale&#8221; debt securities. 
+
+The following is a summary of cash equivalents and marketable securities as of January 26, 2020 and January 27, 2019 : 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+Amortized 
+
+Cost 
+
+&#160; 
+
+Unrealized 
+
+Gain 
+
+&#160; 
+
+Unrealized 
+
+Loss 
+
+&#160; 
+
+Estimated 
+
+Fair Value 
+
+&#160; 
+
+Reported as 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash Equivalents 
+
+&#160; 
+
+Marketable Securities 
+
+&#160; 
+
+(In millions) 
+
+Money market funds 
+
+$ 
+
+7,507 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+7,507 
+
+&#160; 
+
+$ 
+
+7,507 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Debt securities issued by the United States Treasury 
+
+1,358 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+1,358 
+
+&#160; 
+
+1,358 
+
+&#160; 
+
+&#8212; 
+
+Debt securities issued by United States government agencies 
+
+1,096 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+1,096 
+
+&#160; 
+
+1,096 
+
+&#160; 
+
+&#8212; 
+
+Corporate debt securities 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Foreign government bonds 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Certificates of deposit 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Asset-backed securities 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Total 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+10,780 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+January 27, 2019 
+
+&#160; 
+
+Amortized 
+
+Cost 
+
+&#160; 
+
+Unrealized 
+
+Gain 
+
+&#160; 
+
+Unrealized 
+
+Loss 
+
+&#160; 
+
+Estimated 
+
+Fair Value 
+
+&#160; 
+
+Reported as 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash Equivalents 
+
+&#160; 
+
+Marketable Securities 
+
+&#160; 
+
+(In millions) 
+
+Corporate debt securities 
+
+$ 
+
+2,626 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+( 6 
+
+) 
+
+&#160; 
+
+$ 
+
+2,620 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,595 
+
+Debt securities issued by United States government agencies 
+
+2,284 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 4 
+
+) 
+
+&#160; 
+
+2,280 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+2,280 
+
+Debt securities issued by the United States Treasury 
+
+1,493 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1 
+
+) 
+
+&#160; 
+
+1,492 
+
+&#160; 
+
+&#160; 
+
+1,316 
+
+Money market funds 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+Foreign government bonds 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Asset-backed securities 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+( 1 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Mortgage backed securities issued by United States government-sponsored enterprises 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Total 
+
+$ 
+
+7,335 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 12 
+
+) 
+
+&#160; 
+
+$ 
+
+7,324 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+6,640 
+
+##TABLE_END
+
+The unrealized losses as of January 26, 2020 , aggregated by investment category and length of time that individual securities have been in a continuous loss position is not significant. 
+
+The gross unrealized losses are related to fixed income securities, temporary in nature, and driven primarily by changes in interest rates. We have the intent and ability to hold our investments until maturity. For fiscal years 2020 , 2019 , and 2018 , there were no other-than-temporary impairment losses, and net realized gains/losses were not significant. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+The amortized cost and estimated fair value of cash equivalents and marketable securities as of January 26, 2020 and January 27, 2019 are shown below by contractual maturity. 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+Amortized 
+
+Cost 
+
+&#160; 
+
+Estimated 
+
+Fair Value 
+
+&#160; 
+
+Amortized 
+
+Cost 
+
+&#160; 
+
+Estimated 
+
+Fair Value 
+
+&#160; 
+
+(In millions) 
+
+Less than one year 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+5,042 
+
+&#160; 
+
+$ 
+
+5,034 
+
+Due in 1 - 5 years 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+2,271 
+
+&#160; 
+
+2,268 
+
+Mortgage-backed securities issued by United States government-sponsored enterprises not due at a single maturity date 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+10,781 
+
+&#160; 
+
+$ 
+
+7,335 
+
+&#160; 
+
+$ 
+
+7,324 
+
+##TABLE_END
+
+Note 9 - Fair Value of Financial Assets and Liabilities 
+
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets. We review fair value hierarchy classification on a quarterly basis. There were no significant transfers between Levels 1 and 2 financial assets and liabilities for fiscal year 2020 . Level 3 financial assets and liabilities are based on unobservable inputs to the valuation methodology and include our own data about assumptions market participants would use in pricing the asset or liability based on the best information available under the circumstances. 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Fair Value at 
+
+&#160; 
+
+Pricing Category 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+Assets 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Cash equivalents and marketable securities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Money market funds 
+
+Level 1 
+
+&#160; 
+
+$ 
+
+7,507 
+
+&#160; 
+
+$ 
+
+Debt securities issued by the United States Treasury 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+1,358 
+
+&#160; 
+
+$ 
+
+1,492 
+
+Debt securities issued by United States government agencies 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+1,096 
+
+&#160; 
+
+$ 
+
+2,280 
+
+Corporate debt securities 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+2,620 
+
+Foreign government bonds 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Certificates of Deposit 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+Asset-backed securities 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Mortgage-backed securities issued by United States government-sponsored enterprises 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Liabilities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other noncurrent liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+3.20% Notes Due 2026 (1) 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+1,065 
+
+&#160; 
+
+$ 
+
+2.20% Notes Due 2021 (1) 
+
+Level 2 
+
+&#160; 
+
+$ 
+
+1,006 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+These liabilities are carried on our Consolidated Balance Sheets at their original issuance value, net of unamortized debt discount and issuance costs, and are not marked to fair value each period. Refer to Note 12 of these Notes to the Consolidated Financial Statements for additional information. 
+
+##TABLE_END 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 10 - Balance Sheet Components 
+
+Certain balance sheet components are as follows: 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Inventories: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Raw materials 
+
+$ 
+
+&#160; 
+
+$ 
+
+Work in-process 
+
+&#160; 
+
+Finished goods 
+
+&#160; 
+
+Total inventories 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,575 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+Estimated 
+
+Useful Life 
+
+&#160; 
+
+(In millions) 
+
+&#160; 
+
+(In years) 
+
+Property and Equipment: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Land 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+(A) 
+
+Building 
+
+&#160; 
+
+&#160; 
+
+25-30 
+
+Test equipment 
+
+&#160; 
+
+&#160; 
+
+3-5 
+
+Computer equipment 
+
+&#160; 
+
+&#160; 
+
+3-5 
+
+Leasehold improvements 
+
+&#160; 
+
+&#160; 
+
+(B) 
+
+Software and licenses 
+
+&#160; 
+
+&#160; 
+
+3-5 
+
+Office furniture and equipment 
+
+&#160; 
+
+&#160; 
+
+Construction in process 
+
+&#160; 
+
+&#160; 
+
+(C) 
+
+Total property and equipment, gross 
+
+2,685 
+
+&#160; 
+
+2,171 
+
+&#160; 
+
+&#160; 
+
+Accumulated depreciation and amortization 
+
+( 1,011 
+
+) 
+
+&#160; 
+
+( 767 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Total property and equipment, net 
+
+$ 
+
+1,674 
+
+&#160; 
+
+$ 
+
+1,404 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+##TABLE_START (A) 
+
+Land is a non-depreciable asset. 
+
+##TABLE_END##TABLE_START (B) 
+
+Leasehold improvements and capital leases are amortized based on the lesser of either the asset&#8217;s estimated useful life or the expected lease term. 
+
+##TABLE_END ##TABLE_START (C) 
+
+Construction in process represents assets that are not available for their intended use as of the balance sheet date. 
+
+##TABLE_END Depreciation expense for fiscal years 2020 , 2019 , and 2018 was $ 355 million , $ 233 million , and $ 144 million , respectively. 
+
+Accumulated amortization of leasehold improvements and capital leases was $ 216 million and $ 189 million as of January 26, 2020 and January 27, 2019 , respectively. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Accrued and Other Current Liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Customer program accruals 
+
+$ 
+
+&#160; 
+
+$ 
+
+Accrued payroll and related expenses 
+
+&#160; 
+
+Deferred revenue (1) 
+
+&#160; 
+
+Operating lease liabilities 
+
+&#160; 
+
+&#8212; 
+
+Taxes payable 
+
+&#160; 
+
+Licenses payable 
+
+&#160; 
+
+Professional service fees 
+
+&#160; 
+
+Other 
+
+&#160; 
+
+Total accrued and other current liabilities 
+
+$ 
+
+1,097 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Deferred revenue primarily includes customer advances and deferrals related to license and development arrangements and PCS. 
+
+##TABLE_END ##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Other Long-Term Liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Income tax payable (1) 
+
+$ 
+
+&#160; 
+
+$ 
+
+Licenses payable 
+
+&#160; 
+
+Deferred revenue (2) 
+
+&#160; 
+
+Deferred income tax liability 
+
+&#160; 
+
+Employee benefits liability 
+
+&#160; 
+
+Deferred rent 
+
+&#8212; 
+
+&#160; 
+
+Other 
+
+&#160; 
+
+Total other long-term liabilities 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+As of January 26, 2020, income tax payable represents the long-term portion of the one-time transition tax payable of $ 317 million , as well as unrecognized tax benefits of $ 180 million and related interest and penalties of $ 31 million . 
+
+##TABLE_END ##TABLE_START (2) 
+
+Deferred revenue primarily includes deferrals related to PCS. 
+
+##TABLE_END Deferred Revenue 
+
+The following table shows the changes in deferred revenue during fiscal years 2020 and 2019. 
+
+##TABLE_START &#160; 
+
+January 26, 
+
+&#160; 
+
+January 27, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+Balance at beginning of period 
+
+$ 
+
+&#160; 
+
+$ 
+
+Deferred revenue added during the period 
+
+&#160; 
+
+Revenue recognized during the period 
+
+( 271 
+
+) 
+
+&#160; 
+
+( 269 
+
+) 
+
+Balance at end of period 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized. This includes related deferred revenue currently recorded and amounts that will be invoiced in future periods. As of January 26, 2020, the amount of our remaining performance that has not been recognized as revenue was $ 364 million , of which we expect to recognize approximately 46 % as revenue over the next twelve months and the remainder thereafter. This amount excludes the value of remaining performance obligations for contracts with an original expected length of one year or less. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 11 - Derivative Financial Instruments 
+
+We enter into foreign currency forward contracts to mitigate the impact of foreign currency exchange rate movements on our operating expenses. These contracts are designated as cash flow hedges for hedge accounting treatment. Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur. The fair value of the contracts was not significant as of January 26, 2020 and January 27, 2019 . 
+
+We enter into foreign currency forward contracts to mitigate the impact of foreign currency movements on monetary assets and liabilities that are denominated in currencies other than U.S. dollar. These forward contracts were not designated for hedge accounting treatment. Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense. 
+
+The table below presents the notional value of our foreign currency forward contracts outstanding as of January 26, 2020 and January 27, 2019 : 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Designated as cash flow hedges 
+
+$ 
+
+&#160; 
+
+$ 
+
+Not designated for hedge accounting 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+As of January 26, 2020 , all designated foreign currency forward contracts mature within eighteen months . The expected realized gains and losses deferred into accumulated other comprehensive income (loss) related to foreign currency forward contracts within the next twelve months was not significant. 
+
+During fiscal years 2020 and 2019 , the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective. Therefore, there were no gains or losses associated with ineffectiveness. 
+
+Note 12 - Debt 
+
+Long-Term Debt 
+
+2.20% Notes Due 2021 and 3.20% Notes Due 2026 
+
+In fiscal year 2017, we issued $ 1.00 billion of the 2.20 % Notes Due 2021, and $ 1.00 billion of the 3.20 % Notes Due 2026, or collectively, the Notes. Interest on the Notes is payable on March 16 and September 16 of each year. Upon 30 days' notice to holders of the Notes, we may redeem the Notes for cash prior to maturity, at redemption prices that include accrued and unpaid interest, if any, and a make-whole premium. However, no make-whole premium will be paid for redemptions of the Notes Due 2021 on or after August 16, 2021, or for redemptions of the Notes Due 2026 on or after June 16, 2026. The net proceeds from the Notes were $ 1.98 billion , after deducting debt discount and issuance costs. 
+
+The Notes are our unsecured senior obligations and rank equally in right of payment with all existing and future unsecured and unsubordinated indebtedness. The Notes are structurally subordinated to the liabilities of our subsidiaries and are effectively subordinated to any secured indebtedness to the extent of the value of the assets securing such indebtedness. All existing and future liabilities of our subsidiaries will be effectively senior to the Notes. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+The carrying value of the Notes and the associated interest rates were as follows: 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Expected 
+
+Remaining Term (years) 
+
+&#160; 
+
+Effective 
+
+Interest Rate 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+2.20% Notes Due 2021 
+
+&#160; 
+
+1.6 
+
+&#160; 
+
+2.38 % 
+
+&#160; 
+
+$ 
+
+1,000 
+
+&#160; 
+
+$ 
+
+1,000 
+
+3.20% Notes Due 2026 
+
+&#160; 
+
+6.6 
+
+&#160; 
+
+3.31 % 
+
+&#160; 
+
+1,000 
+
+&#160; 
+
+1,000 
+
+Unamortized debt discount and issuance costs 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+( 9 
+
+) 
+
+&#160; 
+
+( 12 
+
+) 
+
+Net carrying amount 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+$ 
+
+1,991 
+
+&#160; 
+
+$ 
+
+1,988 
+
+##TABLE_END
+
+Revolving Credit Facility 
+
+We have a Credit Agreement under which we may borrow up to $ 575 million for general corporate purposes and can obtain revolving loan commitments up to $ 425 million . As of January 26, 2020 , we had no t borrowed any amounts under this agreement. 
+
+Commercial Paper 
+
+We have a $ 575 million commercial paper program to support general corporate purposes. As of January 26, 2020 , we had no t issued any commercial paper. 
+
+Note 13 - Commitments and Contingencies 
+
+Purchase Obligations 
+
+As of January 26, 2020 , we had outstanding inventory purchase obligations totaling $ 1.16 billion and other purchase obligations totaling $ 186 million . 
+
+Accrual for Product Warranty Liabilities 
+
+The estimated amount of product returns and warranty liabilities was $ 15 million and $ 18 million as of January 26, 2020 and January 27, 2019 , respectively. 
+
+In connection with certain agreements that we have entered in the past, we have provided indemnities to cover the indemnified party for matters such as tax, product, and employee liabilities. We have included intellectual property indemnification provisions in our technology related agreements with third parties. Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability. We have not recorded any liability in our Consolidated Financial Statements for such indemnifications. 
+
+Litigation 
+
+Securities Class Action and Derivative Lawsuits 
+
+On December 21, 2018, a purported securities class action lawsuit was filed in the United States District Court for the Northern District of California, captioned Iron Workers Joint Funds v. Nvidia Corporation, et al. (Case No. 18-cv-7669), naming as defendants NVIDIA and certain of NVIDIA&#8217;s officers. On December 28, 2018, a substantially similar purported securities class action was commenced in the Northern District of California, captioned Oto v. Nvidia Corporation, et al. (Case No. 18-cv-07783), naming the same defendants, and seeking substantially similar relief. On February 19, 2019, a number of shareholders filed motions to consolidate the two cases and to be appointed lead plaintiff and for their respective counsel to be appointed lead counsel. On March 12, 2019, the two cases were consolidated under case number 4:18-cv-07669-HSG and titled In Re NVIDIA Corporation Securities Litigation. On May 2, 2019, the Court appointed lead plaintiffs and lead counsel. On June 21, 2019, the lead plaintiffs filed a consolidated class action complaint. The consolidated complaint asserts that the defendants violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018. The plaintiffs also allege that the NVIDIA executives who they named as defendants violated Section 20(a) of the Exchange Act. The plaintiffs seek class certification, an award of unspecified compensatory damages, an award of reasonable costs and expenses, including attorneys&#8217; fees and expert fees, and further relief as the Court may deem just and proper. On August 2, 2019, NVIDIA moved 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+to dismiss the consolidated class action complaint on the basis that plaintiffs failed to state any claims for violations of the securities laws by NVIDIA or the named defendants. 
+
+On January 18, 2019, a shareholder, purporting to act on behalf of NVIDIA, filed a derivative lawsuit in the Northern District of California, captioned Han v. Huang, et al. (Case No. 19-cv-00341), seeking to assert claims on behalf of NVIDIA against the members of NVIDIA&#8217;s board of directors and certain officers. The lawsuit asserts claims for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiff is seeking unspecified damages and other relief, including reforms and improvements to NVIDIA&#8217;s corporate governance and internal procedures. On February 12, 2019, a substantially similar derivative lawsuit was filed in the Northern District of California captioned Yang v. Huang, et. al. (Case No. 19-cv-00766), naming the same named defendants, and seeking the same relief. On February 19, 2019, a third substantially similar derivative lawsuit was filed in the Northern District of California captioned The Booth Family Trust v. Huang, et. al. (Case No. 3:19-cv-00876), naming the same named defendants, and seeking substantially the same relief. On March 12, 2019, the three derivative actions were consolidated under case number 4:19-cv-00341-HSG, and titled In re NVIDIA Corporation Consolidated Derivative Litigation. The parties stipulated to stay the In Re NVIDIA Corporation Consolidated Derivative Litigation pending resolution of any motion to dismiss that NVIDIA may file in the In Re NVIDIA Corporation Securities Litigation. 
+
+On September 24, 2019, two shareholders, purporting to act on behalf of NVIDIA, filed two identical lawsuits in the District of Delaware. One is captioned Lipchitz v. Huang, et al. (Case No. 1:19-cv-01795-UNA) and the other is captioned Nelson v. Huang, et. al. (Case No. 1:19-cv-01798- UNA). The lawsuits assert claims for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiffs seek unspecified damages and other relief, including disgorgement of profits from the sale of NVIDIA stock and unspecified corporate governance measures. On December 11, 2019, the court approved the parties&#8217; stipulation to stay the Lipchitz and Huang actions pending resolution of the motion to dismiss filed by NVIDIA in the In Re NVIDIA Corporation Securities Litigation. 
+
+It is possible that additional suits will be filed, or allegations received from shareholders, with respect to these same or other matters, naming NVIDIA and/or its officers and directors as defendants. 
+
+Accounting for Loss Contingencies 
+
+We are engaged in legal actions not described above arising in the ordinary course of business and, while there can be no assurance of favorable outcomes, we believe that the ultimate outcome of these actions will not have a material adverse effect on our operating results, liquidity or financial position. As of January 26, 2020, we have not recorded any accrual for contingent liabilities associated with the legal proceedings described above based on our belief that liabilities, while possible, are not probable. Further, except as specifically described above, any possible loss or range of loss in these matters cannot be reasonably estimated at this time. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 14 - Income Taxes 
+
+The income tax expense (benefit) applicable to income before income taxes consists of the following: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Current income taxes: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Federal 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+State 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Foreign 
+
+&#160; 
+
+&#160; 
+
+Total current 
+
+&#160; 
+
+&#160; 
+
+Deferred taxes: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Federal 
+
+&#160; 
+
+( 315 
+
+) 
+
+&#160; 
+
+( 376 
+
+) 
+
+State 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Foreign 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Total deferred 
+
+&#160; 
+
+( 315 
+
+) 
+
+&#160; 
+
+( 359 
+
+) 
+
+Income tax expense (benefit) 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 245 
+
+) 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+Income before income tax consists of the following: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Domestic 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,843 
+
+&#160; 
+
+$ 
+
+1,600 
+
+Foreign 
+
+2,350 
+
+&#160; 
+
+2,053 
+
+&#160; 
+
+1,596 
+
+Income before income tax 
+
+$ 
+
+2,970 
+
+&#160; 
+
+$ 
+
+3,896 
+
+&#160; 
+
+$ 
+
+3,196 
+
+##TABLE_END
+
+The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% , 21% , and 33.9% for fiscal years 2020, 2019, and 2018, respectively, to income before income taxes as follows: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Tax expense computed at federal statutory rate 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,084 
+
+Expense (benefit) resulting from: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+State income taxes, net of federal tax effect 
+
+&#160; 
+
+&#160; 
+
+Foreign tax rate differential 
+
+( 301 
+
+) 
+
+&#160; 
+
+( 412 
+
+) 
+
+&#160; 
+
+( 545 
+
+) 
+
+Stock-based compensation 
+
+( 60 
+
+) 
+
+&#160; 
+
+( 191 
+
+) 
+
+&#160; 
+
+( 181 
+
+) 
+
+Tax Cuts and Jobs Act of 2017 
+
+&#8212; 
+
+&#160; 
+
+( 368 
+
+) 
+
+&#160; 
+
+( 133 
+
+) 
+
+U.S. federal R&#38;D tax credit 
+
+( 110 
+
+) 
+
+&#160; 
+
+( 141 
+
+) 
+
+&#160; 
+
+( 87 
+
+) 
+
+Other 
+
+&#160; 
+
+&#160; 
+
+Income tax expense (benefit) 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 245 
+
+) 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below: 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+(In millions) 
+
+Deferred tax assets: 
+
+&#160; 
+
+Net operating loss carryforwards 
+
+$ 
+
+&#160; 
+
+$ 
+
+Accruals and reserves, not currently deductible for tax purposes 
+
+&#160; 
+
+Property, equipment and intangible assets 
+
+&#160; 
+
+Operating lease liabilities 
+
+&#160; 
+
+&#8212; 
+
+Research and other tax credit carryforwards 
+
+&#160; 
+
+Stock-based compensation 
+
+&#160; 
+
+GILTI deferred tax assets 
+
+&#160; 
+
+Gross deferred tax assets 
+
+1,288 
+
+&#160; 
+
+1,140 
+
+Less valuation allowance 
+
+( 621 
+
+) 
+
+&#160; 
+
+( 562 
+
+) 
+
+Total deferred tax assets 
+
+&#160; 
+
+Deferred tax liabilities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Acquired intangibles 
+
+( 1 
+
+) 
+
+&#160; 
+
+( 2 
+
+) 
+
+Unremitted earnings of foreign subsidiaries 
+
+( 40 
+
+) 
+
+&#160; 
+
+( 35 
+
+) 
+
+Operating lease assets 
+
+( 107 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Gross deferred tax liabilities 
+
+( 148 
+
+) 
+
+&#160; 
+
+( 37 
+
+) 
+
+Net deferred tax asset (1) 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+(1) Net deferred tax asset includes long-term deferred tax assets of $ 548 million and $ 560 million and long-term deferred tax liabilities of $ 29 million and $ 19 million for fiscal years 2020 and 2019, respectively. Long-term deferred tax assets are included in Other assets and long-term deferred tax liabilities are included in Other long-term liabilities on our Consolidated Balance Sheets. 
+
+We recognized an income tax expense of $ 174 million and $ 149 million for fiscal years 2020 and 2018, respectively, and income tax benefit of $ 245 million for fiscal year 2019 . Our annual effective tax rate was 5.9 % , ( 6.3 )% , and 4.7 % for fiscal years 2020 , 2019 , and 2018 , respectively. The increase in our effective tax rate in fiscal year 2020 as compared to fiscal years 2019 and 2018 was primarily due to a decrease of tax benefits from stock-based compensation and an absence of tax benefits related to the enactment of the TCJA. 
+
+The decrease in our effective tax rate in fiscal year 2019 as compared to fiscal year 2018 was primarily due to a decrease in the U.S. statutory tax rate from 33.9% to 21%, the finalization of the enactment-date income tax effects of the TCJA, higher U.S federal research tax credits and excess tax benefits related to stock-based compensation in fiscal year 2019. 
+
+Our effective tax rate for fiscal years 2020 and 2019 was lower than the U.S. federal statutory rate of 21% due primarily to income earned in jurisdictions, including the British Virgin Islands and Hong Kong, where the tax rate was lower than the U.S. federal statutory tax rates, favorable recognition of U.S. federal research tax credits, excess tax benefits related to stock-based compensation, and the finalization of the enactment-date income tax effects of the TCJA in 2019. 
+
+Our effective tax rate for fiscal year 2018 was lower than the blended U.S. federal statutory rate of 33.9% due primarily to income earned in jurisdictions, including the British Virgin Islands, Hong Kong, China, Taiwan and United Kingdom, where the tax rate was lower than the U.S. federal statutory tax rates, favorable recognition of U.S. federal research tax credits, the provisional impact of the tax law changes, and excess tax benefits related to stock-based compensation. 
+
+As of January 26, 2020 and January 27, 2019, we had a valuation allowance of $ 621 million and $ 562 million , respectively, related to state and certain foreign deferred tax assets that management determined not likely to be realized due, in part, to jurisdictional projections of future taxable income. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax asset as an income tax benefit during the period. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+As of January 26, 2020, we had federal, state and foreign net operating loss carryforwards of $ 70 million , $ 153 million and $ 295 million , respectively. The federal and state carryforwards will begin to expire in fiscal year 2023 and 2021, respectively. The foreign net operating loss carryforwards of $ 295 million may be carried forward indefinitely. As of January 26, 2020, we had federal research tax credit carryforwards of $ 314 million that will begin to expire in fiscal year 2039. We have state research tax credit carryforwards of $ 814 million , of which $ 774 million is attributable to the State of California and may be carried over indefinitely, and $ 40 million is attributable to various other states and will begin to expire in fiscal year 2021. Our tax attributes, net operating loss and tax credit carryforwards, remain subject to audit and may be adjusted for changes or modification in tax laws, other authoritative interpretations thereof, or other facts and circumstances. Utilization of federal, state, and foreign net operating losses and tax credit carryforwards may also be subject to limitations due to ownership changes and other limitations provided by the Internal Revenue Code and similar state and foreign tax provisions. If any such limitations apply, the federal, states, or foreign net operating loss and tax credit carryforwards, as applicable, may expire or be denied before utilization. 
+
+As of January 26, 2020, we had $ 583 million of gross unrecognized tax benefits, of which $ 464 million would affect our effective tax rate if recognized. However, $ 104 million of the unrecognized tax benefits were related to state income tax positions taken, that, if recognized, would be in the form of a carryforward deferred tax asset that would likely attract a full valuation allowance. The $ 464 million of unrecognized tax benefits as of January 26, 2020 consisted of $ 180 million recorded in non-current income taxes payable and $ 284 million reflected as a reduction to the related deferred tax assets. 
+
+A reconciliation of gross unrecognized tax benefits is as follows: 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Balance at beginning of period 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Increases in tax positions for prior years 
+
+&#160; 
+
+&#160; 
+
+Decreases in tax positions for prior years 
+
+&#8212; 
+
+&#160; 
+
+( 141 
+
+) 
+
+&#160; 
+
+( 1 
+
+) 
+
+Increases in tax positions for current year 
+
+&#160; 
+
+&#160; 
+
+Lapse in statute of limitations 
+
+( 5 
+
+) 
+
+&#160; 
+
+( 10 
+
+) 
+
+&#160; 
+
+( 5 
+
+) 
+
+Balance at end of period 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+We classify an unrecognized tax benefit as a current liability, or amount refundable, to the extent that we anticipate payment or receipt of cash for income taxes within one year. The amount is classified as a long-term liability, or reduction of long-term deferred tax assets or amount refundable if we anticipate payment or receipt of cash for income taxes during a period beyond a year. 
+
+Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense. As of January 26, 2020, January 27, 2019, and January 28, 2018, we had accrued $ 31 million , $ 21 million , and $ 15 million , respectively, for the payment of interest and penalties related to unrecognized tax benefits, which is not included as a component of our unrecognized tax benefits. As of January 26, 2020, unrecognized tax benefits of $ 180 million and the related interest and penalties of $ 31 million are included in non-current income taxes payable. 
+
+While we believe that we have adequately provided for all tax positions, amounts asserted by tax authorities could be greater or less than our accrued position. Accordingly, our provisions on federal, state and foreign tax-related matters to be recorded in the future may change as revised estimates are made or the underlying matters are settled or otherwise resolved. As of January 26, 2020, we do not believe that our estimates, as otherwise provided for, on such tax positions will significantly increase or decrease within the next twelve months. 
+
+We are subject to taxation by taxing authorities both in the United States and other countries. As of January 26, 2020, the significant tax jurisdictions that may be subject to examination include the United States, Hong Kong, Taiwan, China, United Kingdom, Germany, and India for fiscal years 2003 through 2019. As of January 26, 2020, the significant tax jurisdictions for which we are currently under examination include India, China, and United Kingdom for fiscal years 2003 through 2019. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 15 - Shareholders&#8217; Equity 
+
+Capital Return Program 
+
+Beginning August 2004, our Board of Directors authorized us to repurchase our stock. 
+
+Through January 26, 2020 , we have repurchased an aggregate of 260 million shares under our share repurchase program for a total cost of $ 7.08 billion . All shares delivered from these repurchases have been placed into treasury stock. As of January 26, 2020 , we are authorized, subject to certain specifications, to repurchase shares of our common stock up to $ 7.24 billion through December 2022. 
+
+During fiscal year 2020 , we paid $ 390 million in cash dividends to our shareholders. 
+
+Preferred Stock 
+
+As of January 26, 2020 and January 27, 2019 , there were no shares of preferred stock outstanding. 
+
+Common Stock 
+
+We are authorized to issue up to 2.00 billion shares of our common stock at $ 0.001 per share par value. 
+
+Note 16 - Employee Retirement Plans 
+
+We have a 401(k) retirement plan covering substantially all of our U.S. employees. Under the plan, participating employees may defer up to 80 % of their pre-tax earnings, subject to the Internal Revenue Service annual contribution limits and we match a portion of the employee contributions. Our contribution expense for fiscal years 2020 , 2019 , and 2018 was $ 44 million , $ 39 million , and $ 23 million , respectively. We also have defined contribution retirement plans outside of the United States to which we contributed $ 32 million , $ 31 million , and $ 25 million for fiscal years 2020 , 2019 , and 2018 , respectively. 
+
+Note 17 - Segment Information 
+
+Our Chief Executive Officer, who is considered to be our chief operating decision maker, or CODM, reviews financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance. Our operating segments are equivalent to our reportable segments. 
+
+We report our business in two primary reportable segments - the GPU business and the Tegra Processor business - based on a single underlying graphics architecture. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for game consoles and mobile gaming and entertainment devices. 
+
+Under the single unifying architecture for our GPU and Tegra Processors, we leverage our visual computing expertise by charging the operating expenses of certain core engineering functions to the GPU business, while charging the Tegra Processor business for the incremental cost of the teams working directly for that business. In instances where the operating expenses of certain functions benefit both reportable segments, our CODM assigns 100% of those expenses to the reportable segment that benefits the most. 
+
+The &#8220;All Other&#8221; category presented below represents the revenue and expenses that our CODM does not assign to either the GPU business or the Tegra Processor business for purposes of making operating decisions or assessing financial performance. The revenue included in all other is Intel licensing revenue and the expenses include stock-based compensation expense, corporate infrastructure and support costs, legal settlement costs, acquisition-related and other costs, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature. 
+
+Our CODM does not review any information regarding total assets on a reportable segment basis. Reportable segments do not record inter-segment revenue, and, accordingly, there is none to be reported. The accounting policies for segment reporting are the same as for our consolidated financial statements. The table below presents details of our reportable segments and the &#8220;All Other&#8221; category. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+##TABLE_START &#160; 
+
+GPU 
+
+&#160; 
+
+Tegra Processor 
+
+&#160; 
+
+All Other 
+
+&#160; 
+
+Consolidated 
+
+&#160; 
+
+(In millions) 
+
+Year Ended January 26, 2020: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+9,465 
+
+&#160; 
+
+$ 
+
+1,453 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+10,918 
+
+Depreciation and amortization expense 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating income (loss) 
+
+$ 
+
+3,806 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 1,156 
+
+) 
+
+&#160; 
+
+$ 
+
+2,846 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Year Ended January 27, 2019: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+10,175 
+
+&#160; 
+
+$ 
+
+1,541 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+11,716 
+
+Depreciation and amortization expense 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating income (loss) 
+
+$ 
+
+4,443 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 880 
+
+) 
+
+&#160; 
+
+$ 
+
+3,804 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Year Ended January 28, 2018: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+8,137 
+
+&#160; 
+
+$ 
+
+1,534 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+9,714 
+
+Depreciation and amortization expense 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Operating income (loss) 
+
+$ 
+
+3,507 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+( 600 
+
+) 
+
+&#160; 
+
+$ 
+
+3,210 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+&#160; 
+
+(In millions) 
+
+Reconciling items included in "All Other" category: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Unallocated revenue 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+Stock-based compensation expense 
+
+( 844 
+
+) 
+
+&#160; 
+
+( 557 
+
+) 
+
+&#160; 
+
+( 391 
+
+) 
+
+Unallocated cost of revenue and operating expenses 
+
+( 267 
+
+) 
+
+&#160; 
+
+( 277 
+
+) 
+
+&#160; 
+
+( 237 
+
+) 
+
+Acquisition-related and other costs 
+
+( 30 
+
+) 
+
+&#160; 
+
+( 2 
+
+) 
+
+&#160; 
+
+( 15 
+
+) 
+
+Legal settlement costs 
+
+( 15 
+
+) 
+
+&#160; 
+
+( 44 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Total 
+
+$ 
+
+( 1,156 
+
+) 
+
+&#160; 
+
+$ 
+
+( 880 
+
+) 
+
+&#160; 
+
+$ 
+
+( 600 
+
+) 
+
+##TABLE_END
+
+Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if our customers&#8217; revenue is attributable to end customers that are located in a different location. The following table summarizes information pertaining to our revenue from customers based on the invoicing address by geographic regions: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+Revenue: 
+
+(In millions) 
+
+Taiwan 
+
+$ 
+
+3,025 
+
+&#160; 
+
+$ 
+
+3,360 
+
+&#160; 
+
+$ 
+
+2,991 
+
+China (including Hong Kong) 
+
+2,731 
+
+&#160; 
+
+2,801 
+
+&#160; 
+
+1,896 
+
+Other Asia Pacific 
+
+2,685 
+
+&#160; 
+
+2,368 
+
+&#160; 
+
+2,066 
+
+Europe 
+
+&#160; 
+
+&#160; 
+
+United States 
+
+&#160; 
+
+1,506 
+
+&#160; 
+
+1,274 
+
+Other countries 
+
+&#160; 
+
+&#160; 
+
+Total revenue 
+
+$ 
+
+10,918 
+
+&#160; 
+
+$ 
+
+11,716 
+
+&#160; 
+
+$ 
+
+9,714 
+
+##TABLE_END
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+January 28, 2018 
+
+Revenue: 
+
+(In millions) 
+
+Gaming 
+
+$ 
+
+5,518 
+
+&#160; 
+
+$ 
+
+6,246 
+
+&#160; 
+
+$ 
+
+5,513 
+
+Professional Visualization 
+
+1,212 
+
+&#160; 
+
+1,130 
+
+&#160; 
+
+Data Center 
+
+2,983 
+
+&#160; 
+
+2,932 
+
+&#160; 
+
+1,932 
+
+Automotive 
+
+&#160; 
+
+&#160; 
+
+OEM &#38; Other 
+
+&#160; 
+
+&#160; 
+
+Total revenue 
+
+$ 
+
+10,918 
+
+&#160; 
+
+$ 
+
+11,716 
+
+&#160; 
+
+$ 
+
+9,714 
+
+##TABLE_END
+
+The following table presents summarized information for long-lived assets by geographic region. Long-lived assets consist of property and equipment and deposits and other assets, and exclude operating lease assets, goodwill, and intangible assets. 
+
+##TABLE_START &#160; 
+
+January 26, 2020 
+
+&#160; 
+
+January 27, 2019 
+
+Long-lived assets: 
+
+(In millions) 
+
+United States 
+
+$ 
+
+1,568 
+
+&#160; 
+
+$ 
+
+1,266 
+
+Taiwan 
+
+&#160; 
+
+India 
+
+&#160; 
+
+China (including Hong Kong) 
+
+&#160; 
+
+Europe 
+
+&#160; 
+
+Other countries 
+
+&#160; 
+
+Total long-lived assets 
+
+$ 
+
+1,791 
+
+&#160; 
+
+$ 
+
+1,512 
+
+##TABLE_END
+
+One customer represented 11 % of our total revenue for fiscal year 2020 and was attributable to the GPU business. No customer represented 10% or more of total revenue for fiscal years 2019 and 2018. 
+
+One customer represented 21 % of our accounts receivable balance as of January 26, 2020, and one customer represented 19 % of our accounts receivable balance as of January 27, 2019. 
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Continued) 
+
+Note 18 - Quarterly Summary (Unaudited) 
+
+The following table sets forth our unaudited consolidated financial results, for the last eight fiscal quarters: 
+
+##TABLE_START &#160; 
+
+Fiscal Year 2020 
+
+Quarters Ended 
+
+&#160; 
+
+January 26, 2020 
+
+&#160; 
+
+October 27, 2019 
+
+&#160; 
+
+July 28, 2019 
+
+&#160; 
+
+April 28, 2019 
+
+&#160; 
+
+(In millions, except per share data) 
+
+Statements of Income Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+3,105 
+
+&#160; 
+
+$ 
+
+3,014 
+
+&#160; 
+
+$ 
+
+2,579 
+
+&#160; 
+
+$ 
+
+2,220 
+
+Cost of revenue 
+
+$ 
+
+1,090 
+
+&#160; 
+
+$ 
+
+1,098 
+
+&#160; 
+
+$ 
+
+1,038 
+
+&#160; 
+
+$ 
+
+Gross profit 
+
+$ 
+
+2,015 
+
+&#160; 
+
+$ 
+
+1,916 
+
+&#160; 
+
+$ 
+
+1,541 
+
+&#160; 
+
+$ 
+
+1,296 
+
+Net income 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Net income per share: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+$ 
+
+1.55 
+
+&#160; 
+
+$ 
+
+1.47 
+
+&#160; 
+
+$ 
+
+0.91 
+
+&#160; 
+
+$ 
+
+0.65 
+
+Diluted 
+
+$ 
+
+1.53 
+
+&#160; 
+
+$ 
+
+1.45 
+
+&#160; 
+
+$ 
+
+0.90 
+
+&#160; 
+
+$ 
+
+0.64 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Fiscal Year 2019 
+
+Quarters Ended 
+
+&#160; 
+
+January 27, 2019 
+
+&#160; 
+
+October 28, 2018 
+
+&#160; 
+
+July 29, 
+
+&#160; 
+
+April 29, 2018 
+
+&#160; 
+
+(In millions, except per share data) 
+
+Statements of Income Data: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Revenue 
+
+$ 
+
+2,205 
+
+&#160; 
+
+$ 
+
+3,181 
+
+&#160; 
+
+$ 
+
+3,123 
+
+&#160; 
+
+$ 
+
+3,207 
+
+Cost of revenue 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,260 
+
+&#160; 
+
+$ 
+
+1,148 
+
+&#160; 
+
+$ 
+
+1,139 
+
+Gross profit 
+
+$ 
+
+1,207 
+
+&#160; 
+
+$ 
+
+1,921 
+
+&#160; 
+
+$ 
+
+1,975 
+
+&#160; 
+
+$ 
+
+2,068 
+
+Net income (1) 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,230 
+
+&#160; 
+
+$ 
+
+1,101 
+
+&#160; 
+
+$ 
+
+1,244 
+
+Net income per share (1): 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+$ 
+
+0.93 
+
+&#160; 
+
+$ 
+
+2.02 
+
+&#160; 
+
+$ 
+
+1.81 
+
+&#160; 
+
+$ 
+
+2.05 
+
+Diluted 
+
+$ 
+
+0.92 
+
+&#160; 
+
+$ 
+
+1.97 
+
+&#160; 
+
+$ 
+
+1.76 
+
+&#160; 
+
+$ 
+
+1.98 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+In the third and fourth quarters of fiscal year 2019, we recorded U.S. tax reform benefits of $ 138 million and $ 230 million , respectively, associated with the completion of our accounting for the enactment-date income tax effects of the TCJA. 
+
+##TABLE_END
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+SCHEDULE II &#8211; VALUATION AND QUALIFYING ACCOUNTS 
+
+##TABLE_START Description 
+
+&#160; 
+
+Balance at 
+
+Beginning of Period 
+
+&#160; 
+
+Additions 
+
+&#160; 
+
+Deductions 
+
+&#160; 
+
+Balance at 
+
+End of Period 
+
+&#160; 
+
+&#160; 
+
+(In millions) 
+
+Fiscal year 2020 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Allowance for doubtful accounts 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+(1) 
+
+$ 
+
+&#8212; 
+
+(1) 
+
+$ 
+
+Sales return allowance 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(2) 
+
+$ 
+
+( 17 
+
+) 
+
+(4) 
+
+$ 
+
+Deferred tax valuation allowance 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(3) 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+Fiscal year 2019 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Allowance for doubtful accounts 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+(1) 
+
+$ 
+
+( 2 
+
+) 
+
+(1) 
+
+$ 
+
+Sales return allowance 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(2) 
+
+$ 
+
+( 22 
+
+) 
+
+(4) 
+
+$ 
+
+Deferred tax valuation allowance 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(3) 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+Fiscal year 2018 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Allowance for doubtful accounts 
+
+&#160; 
+
+$ 
+
+$ 
+
+(1) 
+
+$ 
+
+&#8212; 
+
+(1) 
+
+$ 
+
+Sales return allowance 
+
+&#160; 
+
+$ 
+
+$ 
+
+(2) 
+
+$ 
+
+( 16 
+
+) 
+
+(4) 
+
+$ 
+
+Deferred tax valuation allowance 
+
+&#160; 
+
+$ 
+
+$ 
+
+(3) 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Additions represent allowance for doubtful accounts charged to expense and deductions represent amounts recorded as reduction to expense upon reassessment of allowance for doubtful accounts at period end. 
+
+##TABLE_END##TABLE_START (2) 
+
+Represents allowance for sales returns estimated at the time revenue is recognized primarily based on historical return rates and is charged as a reduction to revenue. 
+
+##TABLE_END##TABLE_START (3) 
+
+Represents change in valuation allowance primarily related to state and certain foreign deferred tax assets that management has determined not likely to be realized due, in part, to projections of future taxable income of the respective jurisdictions. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+##TABLE_END ##TABLE_START (4) 
+
+Represents sales returns. 
+
+##TABLE_END
+
+EXHIBIT INDEX 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Incorporated by Reference 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Exhibit No. 
+
+&#160; 
+
+Exhibit Description 
+
+&#160; 
+
+Schedule/Form 
+
+&#160; 
+
+File Number 
+
+&#160; 
+
+Exhibit 
+
+&#160; 
+
+Filing Date 
+
+2.1 
+
+&#160; 
+
+Agreement and Plan of Merger, dated March 10, 2019, by and among NVIDIA Corporation, NVIDIA International Holdings Inc., Mellanox Technologies Ltd. And Teal Barvaz Ltd. 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+2.1 
+
+&#160; 
+
+3/11/2019 
+
+3.1 
+
+&#160; 
+
+Amended and Restated Certificate of Incorporation 
+
+&#160; 
+
+S-8 
+
+&#160; 
+
+333-74905 
+
+&#160; 
+
+4.1 
+
+&#160; 
+
+3/23/1999 
+
+3.2 
+
+&#160; 
+
+Certificate of Amendment of Amended and Restated Certificate of Incorporation 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+3.1 
+
+&#160; 
+
+8/21/2008 
+
+3.3 
+
+&#160; 
+
+Certificate of Amendment of Amended and Restated Certificate of Incorporation 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+3.1 
+
+&#160; 
+
+5/24/2011 
+
+3.4 
+
+&#160; 
+
+Bylaws of NVIDIA Corporation, Amended and Restated as of November 29, 2016 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+3.1 
+
+&#160; 
+
+12/1/2016 
+
+4.1 
+
+&#160; 
+
+Reference is made to Exhibits 3.1, 3.2, 3.3 and 3.4 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+4.2 
+
+&#160; 
+
+Specimen Stock Certificate 
+
+&#160; 
+
+S-1/A 
+
+&#160; 
+
+333-47495 
+
+&#160; 
+
+4.2 
+
+&#160; 
+
+4/24/1998 
+
+4.3 
+
+&#160; 
+
+Indenture, dated as of September 16, 2016, by and between the Company and Wells Fargo Bank, National Association, as Trustee 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+4.1 
+
+&#160; 
+
+9/16/2016 
+
+4.4 
+
+&#160; 
+
+Officers&#8217; Certificate, dated as of September 16, 2016 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+4.2 
+
+&#160; 
+
+9/16/2016 
+
+4.5 
+
+&#160; 
+
+Form of 2021 Note 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+Annex A to Exhibit 4.2 
+
+&#160; 
+
+9/16/2016 
+
+4.6 
+
+&#160; 
+
+Form of 2026 Note 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+Annex B to Exhibit 4.2 
+
+&#160; 
+
+9/16/2016 
+
+4.7* 
+
+&#160; 
+
+Description of Securities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+Form of Indemnity Agreement between NVIDIA Corporation and each of its directors and officers 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+3/7/2006 
+
+10.2+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+5/21/2018 
+
+10.3+ 
+
+&#160; 
+
+2007 Equity Incentive Plan - Non-Statutory Stock Option (Annual Grant - Board Service (2011)) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.41 
+
+&#160; 
+
+5/27/2011 
+
+10.4+ 
+
+&#160; 
+
+2007 Equity Incentive Plan - Non-Statutory Stock Option (Initial Grant - Board Service (2011)) 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+12/14/2011 
+
+10.5+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Stock Option Grant (2012 Annual Board Retainer) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.4 
+
+&#160; 
+
+5/23/2012 
+
+10.6+ 
+
+&#160; 
+
+2007 Equity Incentive Plan - Non Statutory Stock Option 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.20 
+
+&#160; 
+
+9/13/2010 
+
+10.7+ 
+
+&#160; 
+
+2007 Equity Incentive Plan - Incentive Stock Option 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.21 
+
+&#160; 
+
+9/13/2010 
+
+10.8+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non Statutory Stock Option 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+8/22/2012 
+
+10.9+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Incentive Stock Option 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.2 
+
+&#160; 
+
+8/22/2012 
+
+10.10+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Restricted Stock Unit Grant Notice and Restricted Stock Unit Purchase Agreement 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.3 
+
+&#160; 
+
+8/22/2012 
+
+##TABLE_END
+
+##TABLE_START 10.11+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit (with deferral option) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.3 
+
+&#160; 
+
+5/23/2012 
+
+10.12+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non Statutory Stock Option (Initial Grant - Board Service) 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+7/23/2013 
+
+10.13+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2015) 
+
+&#160; 
+
+10-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.25 
+
+&#160; 
+
+3/12/2015 
+
+10.14+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Deferred Restricted Stock Unit Grant Notice and Deferred Restricted Stock Unit Agreement (2016) 
+
+&#160; 
+
+10-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.26 
+
+&#160; 
+
+3/12/2015 
+
+10.15+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement (2016) 
+
+&#160; 
+
+10-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.27 
+
+&#160; 
+
+3/12/2015 
+
+10.16+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Non-Employee Director Restricted Stock Unit (Initial Grant - with deferral options) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+5/20/2015 
+
+10.17+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement &#38; Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2015) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.2 
+
+&#160; 
+
+5/20/2015 
+
+10.18+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Restricted Stock Unit Grant Notice and Restricted Stock Unit Agreement &#38; Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2018) 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.2 
+
+&#160; 
+
+5/22/2018 
+
+10.19+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2019) 
+
+&#160; 
+
+10-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.19 
+
+&#160; 
+
+2/21/2019 
+
+10.20+ 
+
+&#160; 
+
+Amended and Restated 2007 Equity Incentive Plan - Global Performance-Based Restricted Stock Unit Grant Notice and Performance-Based Restricted Stock Unit Agreement (2019) 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+3/11/2019 
+
+10.21+ 
+
+&#160; 
+
+Amended and Restated 2012 Employee Stock Purchase Plan 
+
+&#160; 
+
+10-Q 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.2 
+
+&#160; 
+
+5/21/2018 
+
+10.22+ 
+
+&#160; 
+
+Fiscal Year 2019 Variable Compensation Plan 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+3/13/2018 
+
+10.23+ 
+
+&#160; 
+
+Fiscal Year 2020 Variable Compensation Plan 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+3/11/2019 
+
+10.24+ 
+
+&#160; 
+
+Offer Letter between NVIDIA Corporation and Colette Kress, dated September 13, 2013 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+9/16/2013 
+
+10.25+ 
+
+&#160; 
+
+Offer Letter between NVIDIA Corporation and Tim Teter, dated December 16, 2016 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+1/19/2017 
+
+10.26+ 
+
+&#160; 
+
+Offer Letter between NVIDIA Corporation and Donald Robertson, dated May 21, 2019 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+6/17/2019 
+
+10.27 
+
+&#160; 
+
+Base Convertible Note Hedge Transaction Confirmation 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+99.1 
+
+&#160; 
+
+12/2/2013 
+
+10.28 
+
+&#160; 
+
+Additional Convertible Note Hedge Transaction Confirmation 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+99.3 
+
+&#160; 
+
+12/2/2013 
+
+##TABLE_END
+
+##TABLE_START 10.29 
+
+&#160; 
+
+Credit Agreement, dated as of October 7, 2016 by and among NVIDIA Corporation, Wells Fargo Bank, National Association, as administrative agent, and the lenders party thereto 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+1.1 
+
+&#160; 
+
+10/13/2016 
+
+10.30 
+
+&#160; 
+
+Form of Commercial Paper Dealer Agreement between NVIDIA Corporation, as Issuer, and the Dealer party thereto 
+
+&#160; 
+
+8-K 
+
+&#160; 
+
+0-23985 
+
+&#160; 
+
+10.1 
+
+&#160; 
+
+12/15/2017 
+
+21.1* 
+
+&#160; 
+
+List of Registrant's Subsidiaries 
+
+&#160; 
+
+23.1* 
+
+&#160; 
+
+Consent of PricewaterhouseCoopers LLP 
+
+&#160; 
+
+24.1* 
+
+&#160; 
+
+Power of Attorney (included in signature page) 
+
+&#160; 
+
+31.1* 
+
+&#160; 
+
+Certification of Chief Executive Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934 
+
+31.2* 
+
+&#160; 
+
+Certification of Chief Financial Officer as required by Rule 13a-14(a) of the Securities Exchange Act of 1934 
+
+32.1#* 
+
+&#160; 
+
+Certification of Chief Executive Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934 
+
+32.2#* 
+
+&#160; 
+
+Certification of Chief Financial Officer as required by Rule 13a-14(b) of the Securities Exchange Act of 1934 
+
+101.INS* 
+
+&#160; 
+
+XBRL Instance Document 
+
+&#160; 
+
+101.SCH* 
+
+&#160; 
+
+XBRL Taxonomy Extension Schema Document 
+
+&#160; 
+
+101.CAL* 
+
+&#160; 
+
+XBRL Taxonomy Extension Calculation Linkbase Document 
+
+&#160; 
+
+101.DEF* 
+
+&#160; 
+
+XBRL Taxonomy Extension Definition Linkbase Document 
+
+&#160; 
+
+101.LAB* 
+
+&#160; 
+
+XBRL Taxonomy Extension Labels Linkbase Document 
+
+&#160; 
+
+101.PRE* 
+
+&#160; 
+
+XBRL Taxonomy Extension Presentation Linkbase Document 
+
+&#160; 
+
+&#160; 
+
+XBRL Taxonomy Extension Presentation Linkbase Document 
+
+&#160; 
+
+##TABLE_END
+
+* &#160; Filed herewith. 
+
++ Management contract or compensatory plan or arrangement. 
+
+# In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release Nos. 33-8238 and 34-47986, Final Rule: Management's Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Annual Report on Form 10-K and will not be deemed &#8220;filed&#8221; for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference. 
+
+Copies of above exhibits not contained herein are available to any shareholder upon written request to: 
+
+Investor Relations: NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, CA 95051 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on February 20, 2020 . 
+
+##TABLE_START NVIDIA Corporation 
+
+By: 
+
+/s/ Jen-Hsun Huang 
+
+&#160; 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+President and Chief Executive Officer 
+
+##TABLE_END
+
+POWER OF ATTORNEY 
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Jen-Hsun Huang and Colette M. Kress, and each or any one of them, his true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution, for him and in his name, place and stead, in any and all capacities, to sign any and all amendments to this report, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-facts and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his substitutes or substitutes, may lawfully do or cause to be done by virtue hereof. 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+##TABLE_START Signature 
+
+Title 
+
+Date 
+
+/s/ JEN-HSUN HUANG 
+
+President, Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+February 20, 2020 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+&#160; 
+
+/s/ COLETTE M. KRESS 
+
+Executive Vice President and Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+February 20, 2020 
+
+Colette M. Kress 
+
+&#160; 
+
+&#160; 
+
+/s/ DONALD ROBERTSON 
+
+Vice President and Chief Accounting Officer 
+
+(Principal Accounting Officer) 
+
+February 20, 2020 
+
+Donald Robertson 
+
+&#160; 
+
+&#160; 
+
+/s/ ROBERT BURGESS 
+
+Director 
+
+February 20, 2020 
+
+Robert Burgess 
+
+&#160; 
+
+&#160; 
+
+/s/ TENCH COXE 
+
+Director 
+
+February 20, 2020 
+
+Tench Coxe 
+
+&#160; 
+
+&#160; 
+
+/s/ PERSIS DRELL 
+
+Director 
+
+February 20, 2020 
+
+Persis Drell 
+
+&#160; 
+
+&#160; 
+
+/s/ JAMES C. GAITHER 
+
+Director 
+
+February 20, 2020 
+
+James C. Gaither 
+
+&#160; 
+
+&#160; 
+
+/s/ DAWN HUDSON 
+
+Director 
+
+February 20, 2020 
+
+Dawn Hudson 
+
+&#160; 
+
+&#160; 
+
+/s/ HARVEY C. JONES 
+
+Director 
+
+February 20, 2020 
+
+Harvey C. Jones 
+
+&#160; 
+
+&#160; 
+
+/s/ MICHAEL MCCAFFERY 
+
+Director 
+
+February 20, 2020 
+
+Michael McCaffery 
+
+&#160; 
+
+&#160; 
+
+/s/ STEPHEN C. NEAL 
+
+Director 
+
+February 20, 2020 
+
+Stephen C. Neal 
+
+&#160; 
+
+&#160; 
+
+/s/ MARK L. PERRY 
+
+Director 
+
+February 20, 2020 
+
+Mark L. Perry 
+
+&#160; 
+
+&#160; 
+
+/s/ A. BROOKE SEAWELL 
+
+Director 
+
+February 20, 2020 
+
+A. Brooke Seawell 
+
+&#160; 
+
+&#160; 
+
+/s/ MARK STEVENS 
+
+Director 
+
+February 20, 2020 
+
+Mark Stevens 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+

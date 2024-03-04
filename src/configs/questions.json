@@ -1,0 +1,59 @@
+[
+  {
+    "sector": "Summary",
+    "question": "I have provided you 10K SEC filing of {company} for the past 5 years, go through the latest SEC filing and give me a brief summary of What business is the company in? What is the broad industry setup and the position of the company in it? What are {company}'s strategic priorities? What brands if any does the company have?"
+  },
+  {
+    "sector": "Revenue",
+    "question": "Now, tell me, What is the company's main source of revenue? Where are they adding value in the value chain?"
+  },
+  {
+    "sector": "Business line",
+    "question": "What is {company}'s main business line?"
+  },
+  {
+    "sector": "Economics",
+    "question": "Go through every SEC filing and tell me what are the economics of {company}'s business? (Cost structure, cash generation, margins, volumes)"
+  },
+  {
+    "sector": "Customers",
+    "question": "Who are the company's customers? How much do the top customers account for final sales?(provide some solid figures if available)"
+  },
+  {
+    "sector": "Competition",
+    "question": "What are the {company}'s competitive advantages? Who are it's competitors? Have they changed over the years?"
+  },
+  {
+    "sector": "Mergers",
+    "question": "Has the company done any recent acquisition or mergers or other corporate activity? What are they?(If you dont find this information in the documents, explicitly mention that it was not present in documents)"
+  },
+  {
+    "sector": "Risks",
+    "question": "What are some of the main risks and operational challenges the company faces and has faced over the years?(Summarize the information me in 2-3 lines)"
+  },
+  {
+    "sector": "Manufacturing",
+    "question": "What are the main raw materials and inputs to the manufacturing process?"
+  },
+  {
+    "sector": "Distribution",
+    "question": "How does the company distribute its products and services? (Give me specifics if available)"
+  },
+  {
+    "sector": "IP",
+    "question": "Does the company own any IP, licenses and trademarks? (If you dont find this information in the documents, explicitly mention that it was not present in documents)"
+  },
+  {
+    "sector": "Franchise",
+    "question": "Does the company have any franchise? (If you dont find this information in the documents, explicitly mention that it was not present in documents)"
+  },
+  {
+    "sector": "Employees",
+    "question": "How many employees does the company have and where are the company's headquarters mainly located? (If you dont find this information in the documents, explicitly mention that it was not present in documents)"
+  },
+  {
+    "sector": "Management",
+    "question": "Identify all the key employees and senior officers like CEO, CFO, COO etc and provide their names"
+  }
+]
+

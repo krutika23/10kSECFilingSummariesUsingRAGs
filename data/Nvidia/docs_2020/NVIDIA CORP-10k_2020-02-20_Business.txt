@@ -1,0 +1,349 @@
+NVIDIA CORP 10K 2020-02-20 
+  ITEM 1. BUSINESS 
+
+Our Company 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of artificial intelligence, or AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for virtual reality, or VR, high performance computing, or HPC, and AI. 
+
+The GPU was initially used to simulate human imagination, enabling the virtual worlds of video games and films. Today, it also simulates human intelligence, enabling a deeper understanding of the physical world. Its parallel processing capabilities, supported by up to thousands of computing cores, are essential to running deep learning algorithms. This form of AI, in which software writes itself by learning from data, can serve as the brain of computers, robots and self-driving cars that can perceive and understand the world. GPU-powered deep learning continues to be adopted by thousands of enterprises to deliver services and features that would have been impossible with traditional coding. 
+
+NVIDIA has a platform strategy, bringing together hardware, system software, programmable algorithms, libraries, systems, and services to create unique value for the markets we serve. While the requirements of these end markets are diverse, we address them with a unified underlying architecture leveraging our GPUs and software stacks. The programmable nature of our architecture allows us to support several multi-billion-dollar end markets with the same underlying technology by using a variety of software stacks developed either internally or by third party developers and partners. The large and growing number of developers across our platforms strengthens our ecosystem and increases the value of our platform to our customers. 
+
+Innovation is at our core. We invested over $20 billion in research and development since our inception, yielding inventions that are essential to modern computing. Our invention of the GPU in 1999 defined modern computer graphics and established NVIDIA as the leader in visual computing. With our introduction of the CUDA programming model in 2006, we opened the parallel processing capabilities of the GPU for general purpose computing. This approach significantly accelerates the performance of the most demanding applications in HPC in fields such as aerospace, bio-science research, mechanical and fluid simulations, and energy exploration. Today, our GPUs power many of the fastest supercomputers across the world. In addition, the massively parallel compute architecture of our GPUs and associated software are well suited for deep learning and machine learning, powering the era of AI. While traditional CPU-based approaches no longer deliver advances on the pace described by Moore&#8217;s Law, we deliver GPU performance improvements on a pace ahead of Moore&#8217;s Law, giving the industry a path forward. 
+
+Gamers choose NVIDIA GPUs to enjoy immersive, increasingly cinematic virtual worlds. GPUs also help underpin the world&#8217;s fastest growing spectator sport, eSports, which attracts hundreds of millions of viewers to watch top-quality gaming. A rapidly growing genre of Battle Royale games, such as Fortnite, is also expanding the gaming market. 
+
+Researchers use our GPUs to accelerate a wide range of important applications, from simulating molecular dynamics to weather forecasting. With support for more than over 600 applications - including the top 15 HPC applications - NVIDIA GPUs enable some of the most promising areas of discovery, from weather prediction to materials science and from wind tunnel simulation to genomics. NVIDIA GPUs power the top two supercomputers in the world, located at Oak Ridge and Lawrence Livermore National Laboratories in the United States, as well as the top supercomputers in Europe and Japan. In all, NVIDIA powers 136 of the TOP500 supercomputers. 
+
+The world&#8217;s leading cloud service providers use our GPUs to enable, accelerate or enrich the services they deliver to billions of end-users, including search, social networking, online shopping, live video, translation, AI assistants, navigation, and cloud computing. 
+
+A rapidly growing number of enterprises and startups use our GPUs for deep learning that meets, and in several cases surpasses, human perception, in fields ranging from radiology to precision agriculture. For example, the transportation industry is turning to our GPUs and AI to enable autonomous vehicles, or AVs, with several hundred companies and organizations working with NVIDIA&#8217;s DRIVE platform. 
+
+Professional designers use our GPUs to create visual effects in movies and design products ranging from soft drink bottles to commercial aircraft. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Our Businesses 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying architecture. Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for game consoles and mobile gaming and entertainment devices. 
+
+##TABLE_START GPU 
+
+&#8729; 
+
+GeForce &#160; for PC gaming and mainstream PCs 
+
+&#160; 
+
+&#8729; 
+
+GeForce NOW &#160; for cloud-based gaming 
+
+&#160; 
+
+&#8729; 
+
+Quadro &#160; for design professionals working in computer-aided design, video editing, special effects, and other creative applications 
+
+&#160; 
+
+&#8729; 
+
+Tesla for AI utilizing deep learning and accelerated computing, leveraging the parallel computing capabilities of GPUs for general purpose computing 
+
+&#160; 
+
+&#8729; 
+
+GRID to provide the power of NVIDIA graphics through the cloud and data centers 
+
+&#160; 
+
+&#8729; 
+
+DGX for AI scientists, researchers and developers 
+
+&#160; 
+
+&#8729; 
+
+EGX for accelerated AI computing at the edge 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Tegra Processor 
+
+&#8729; 
+
+Tegra &#160; processors are primarily designed to enable branded platforms - AGX and SHIELD 
+
+&#160; 
+
+&#8729; 
+
+SHIELD devices and services designed to harness the power of mobile-cloud to revolutionize home entertainment, AI and gaming 
+
+&#160; 
+
+&#8729; 
+
+AGX is a power-efficient AI computing platform for intelligent edge devices, including: 
+
+&#160; 
+
+&#160; 
+
+- DRIVE AGX for self-driving vehicles 
+
+&#160; 
+
+&#160; 
+
+- Clara AGX for medical instruments 
+
+&#160; 
+
+&#160; 
+
+- Jetson AGX for robotics and other embedded use 
+
+##TABLE_END
+
+Our Markets 
+
+We specialize in markets in which GPU-based visual computing and accelerated computing platforms can provide tremendous throughput for applications. These platforms incorporate processors, systems software, programmable algorithms, systems, and services to deliver value that is unique in the marketplace. From our proprietary processors, we created platforms that address four large markets where our expertise is critical: Gaming, Professional Visualization, Data Center, and Automotive. 
+
+Gaming 
+
+Computer gaming is the largest entertainment industry. Many factors propel computer gaming&#8217;s growth, including new high production value games and franchises, the rise of competitive online gaming, eSports, and the rise of virtual and augmented reality. 
+
+Our GPUs enhance the gaming experience by improving the visual quality of graphics, increasing the frame rate for smoother gameplay and improving realism by incorporating the behavior of light and physical objects. These can be enjoyed independently or together to extend the gaming experience across platforms. 
+
+Our gaming platforms utilize sophisticated 3D software and algorithms, including our GameWorks libraries that provide special effects for games. We further enhance gaming with GeForce Experience, our gaming application that optimizes the PC user&#8217;s settings for each title and enables players to record and share gameplay. 
+
+We developed NVIDIA RTX ray tracing technology to enable real-time, cinematic-quality rendering in the RTX line-up of our gaming platforms. Ray tracing, which has long been used for special effects in the movie industry, is a computationally intensive technique that simulates the physical behavior of light to achieve greater realism in computer-generated scenes. 
+
+To enable VR, we provide developers with a suite of software libraries called VRWorks. VRWorks allows developers to create fully immersive experiences by enabling physically realistic visuals, sound, touch interactions, and simulated environments. VR requires advanced high-performance GPUs as the engine to simulate complete immersion. 
+
+Our products for the gaming market include GeForce RTX and GeForce GTX GPUs for PC gaming, SHIELD devices for gaming and streaming, GeForce NOW for cloud-based gaming, as well as platforms and development services for specialized console gaming devices. 
+
+Professional Visualization 
+
+We serve the Professional Visualization market by working closely with independent software vendors to optimize their offerings for NVIDIA GPUs. Our GPU computing solutions enhance productivity and introduce new capabilities for critical parts of the workflow for such major industries as automotive, media and entertainment, architectural engineering, oil and gas, and medical imaging. 
+
+Designers who build the products we use every day need the images that they view digitally to mirror reality. This requires simulating the physical behavior of light and materials, or physically-based rendering, an emerging trend in professional design. Our DesignWorks software delivers this to designers and enables an architect designing a building with a computer-aided design package to interact with the model in real time, view it in greater detail, and generate photorealistic renderings for the client. It also allows an automotive designer to create a highly realistic 3D image of a car, which can be viewed from all angles, reducing reliance on costly, time-consuming full-scale clay models. 
+
+During fiscal year 2019, we introduced the NVIDIA RTX platform, making it possible to render film-quality, photorealistic objects and environments with physically accurate shadows, reflections and refractions using ray tracing in real-time. Through fiscal year 2020, many leading 3D design and content creation applications developed by our ecosystem partners enabled support for RTX, allowing professionals to accelerate and transform their workflows with NVIDIA RTX GPUs. 
+
+Just as VR is becoming more important in gaming, it is also being incorporated in a growing number of enterprise applications, including within medicine, architecture, product design, and retail. Virtual car showrooms, surgical training, architectural walkthroughs, and bringing historical scenes to life all deploy this technology, powered by our GPUs. 
+
+Visual computing is vital to productivity in many environments, including design and manufacturing and digital content creation. Design and manufacturing includes computer-aided design, architectural design, consumer-products manufacturing, medical instrumentation, and aerospace. Digital content creation includes professional video editing and post production, special effects for films, and broadcast-television graphics. 
+
+Our brand for this market is Quadro for workstations. Quadro GPUs enhance the productivity of designers by improving performance and adding functionality, such as photorealistic rendering, high color fidelity, and advanced scalable display capabilities. 
+
+Data Center 
+
+The NVIDIA accelerated computing platform addresses AI and HPC applications. The platform consists of our energy efficient GPUs, our CUDA programming language, specific libraries such as cuDNN and TensorRT, and innovations such as NVLink and NVSwitch interconnects, which enable application scalability across multiple GPUs. 
+
+In the field of AI, NVIDIA&#8217;s platform accelerates both deep learning and machine learning workloads. Deep learning is a computer science approach where neural networks are trained to recognize patterns from massive amounts of data in the form of images, sounds and text - in some instances better than humans. Machine learning is a related approach that leverages algorithms as well as data to learn how to make determinations or predictions, often used in data science. HPC, also referred to as scientific computing, uses numerical computational approaches to solve large and complex problems. For both AI and HPC applications, the NVIDIA accelerated computing platform greatly increases the performance and power efficiency of high-performance computers and data centers, as GPUs excel at parallel workloads. 
+
+We are engaged with thousands of organizations working on AI in a multitude of industries, from automating tasks such as reading medical images, to enabling fraud detection in financial services, to optimizing oil exploration and drilling. These organizations include the world&#8217;s leading cloud services companies such as Amazon, Baidu, and Facebook, which are infusing AI in applications that enable highly accurate voice recognition and real-time translation; enterprises that are increasingly turning to AI to improve products and services; and startups seeking to implement AI in transformative ways across multiple industries. We partnered with industry leaders such as IBM, Microsoft, Oracle, SAP, and VMware to bring AI to enterprise users. We also have partnerships in healthcare and manufacturing, among others, to accelerate the adoption of AI. 
+
+To enable deep learning and machine learning, we provide a family of GPUs designed to speed up training and inferencing of neural networks. They are available in industry standard servers from every major computer maker worldwide, including Cisco, Dell, HP, Inspur, and Lenovo; from every major cloud service provider such as Alicloud, Amazon Web Services, Baidu Cloud, Google Cloud, IBM Cloud, Microsoft Azure, and Oracle Cloud; as well as in our DGX AI supercomputer, a purpose-built system for deep learning and GPU accelerated applications. DGX delivers performance equal to hundreds of conventional servers, comes fully integrated with hardware, software, development tools, support for AI frameworks, and runs popular accelerated applications. We also offer the NVIDIA GPU Cloud, or NGC, a comprehensive catalog of easy-to-use, optimized 
+
+software stacks across a range of domains including scientific computing, deep learning, and machine learning. With NGC, AI developers, researchers and data scientists can get started with the development of AI and HPC applications and deploy them on DGX systems, NGC-ready workstations or servers from our systems partners, or with NVIDIA&#8217;s cloud partners such as Amazon, Google Cloud, Microsoft Azure, or Oracle Cloud. 
+
+GPUs also increase the speed of applications used in such fields as aerospace, bio-science research, mechanical and fluid simulations, and energy exploration. GPUs have significantly impacted scientific discovery, including improving heart surgery, mapping human genome folds, seismic modeling, and weather simulations. 
+
+Accelerated computing is recognized as the path forward for computing amid the slowing of Moore&#8217;s Law. The proportion of supercomputers utilizing accelerators has grown sharply over the past five years, now accounting for a significant proportion of both the total systems on the TOP500 list, which ranks the 500 most powerful commercially available computer systems, and the list&#8217;s total floating-point operations per second. Tesla GPU accelerators power many of the world&#8217;s fastest supercomputers, including the U.S. Department of Energy&#8217;s Summit and Sierra supercomputers at Oak Ridge and Lawrence Livermore National Laboratories, Europe&#8217;s fastest supercomputer - Piz Daint - in Switzerland, Japan&#8217;s fastest supercomputer, ABCI; and the world&#8217;s fastest industrial supercomputer by Italian energy company Eni. 
+
+We also serve the data center market with GRID for virtualized graphics and Virtual Compute Server for virtualized AI and data science. GRID makes it possible to run graphics-intensive applications remotely on a server in the data center. Applications include accelerating virtual desktop infrastructures and delivering graphics-intensive applications from the cloud for industries such as manufacturing, healthcare, and educational institutions, among others. Virtual Compute Server (vComputeServer) enables data centers to accelerate server virtualization with GPUs so that the most compute-intensive workloads, such as artificial intelligence, deep learning, and data science, can be run in a virtual machine. 
+
+Automotive 
+
+NVIDIA&#8217;s Automotive market is comprised of cockpit infotainment solutions, AV platforms, and associated development agreements. Leveraging our technology leadership in AI and building on our long-standing automotive relationships, we are delivering a full solution for the AV market under the DRIVE brand. NVIDIA has demonstrated multiple applications of AI within the car. AI can drive the car itself as a pilot, in either partial or fully autonomous mode. AI can also be a co-pilot, assisting the human driver in creating a safer driving experience. 
+
+NVIDIA is working with several hundred partners in the automotive ecosystem including automakers, truck makers, tier-one suppliers, sensor manufacturers, automotive research institutions, HD mapping companies, and startups to develop and deploy AI systems for self-driving vehicles. Our unified AI computing architecture starts with training deep neural networks using our GPUs, and then running them within the vehicle on the NVIDIA DRIVE computing platform. The platform consists of high-performance, energy efficient hardware - DRIVE AGX, and open, modular software - including DRIVE AV for autonomous driving and DRIVE IX for in-vehicle AI assistance. In addition, we offer a scalable simulation solution, NVIDIA DRIVE Constellation, for testing and validating a self-driving platform before commercial deployment. This end-to-end, software-defined approach allows cars to receive over-the-air updates to add new features and capabilities throughout the life of a vehicle. 
+
+NVIDIA DRIVE can perceive and understand in real-time what's happening around the vehicle, precisely locate itself on an HD map, and plan a safe path forward. This advanced self-driving car platform combines deep learning, sensor fusion, and surround vision to change the driving experience. Our DRIVE platform scales from a palm-sized, energy-efficient module for automated highway-driving capabilities to a configuration with multiple systems aimed at enabling driverless cars. Our Xavier SoC, which started shipping in 2018, enables vehicles to use deep neural networks to process data from multiple cameras and sensors. It powers the DRIVE AutoPilot, NVIDIA&#8217;s Level 2+ automated driving solution, combining the DRIVE AV self-driving solution with the DRIVE IX cockpit software, including a visualization system for allowing the driver to see what the car sees and plans to do. In fiscal year 2020, we announced our next-generation SoC, Orin, targeting mass production in 2022. 
+
+Business Strategies 
+
+NVIDIA&#8217;s key strategies that shape our overall business approach include: 
+
+Advancing the GPU computing platform. The massive parallel processing capabilities of NVIDIA GPUs can solve complex problems in significantly less time and with lower power consumption than alternative computational approaches. Indeed, GPUs can help solve problems that were previously deemed unsolvable. We work to deliver continued GPU performance leaps that outpace Moore&#8217;s Law by leveraging innovation across the architecture, chip design, system, and software layers. Our strategy is to target markets where GPUs deliver order-of-magnitude performance advantages relative to legacy approaches. Our market platforms so far include Gaming, Professional Visualization, Data Center, and Automotive. While 
+
+the requirements of these end markets are diverse, we address them with a unified underlying architecture leveraging our GPUs and CUDA as the fundamental building blocks. The programmable nature of our architecture allows us to make leveraged investments in R&#38;D: we can support several multi-billion dollar end markets with the same underlying technology by using a variety of software stacks developed either internally or by third party developers and partners. We utilize this platform approach in each of our target markets. 
+
+Extending our technology and platform leadership in AI. We provide a complete, end-to-end GPU computing platform for deep learning and machine learning, addressing both training and inferencing. This includes GPUs, our CUDA programming language, algorithms, libraries, and system software. GPUs are uniquely suited to AI, and we will continue to add AI-specific features to our GPU architecture to further extend our leadership position. Our AI technology leadership is reinforced by our large and expanding ecosystem in a virtuous cycle. Our GPU platforms are available from virtually every major server maker and cloud service provider, as well as on our own AI supercomputer. There are over 1.6 million developers worldwide using CUDA and our other software tools to help deploy our technology in our target markets. We evangelize AI through partnerships with hundreds of universities and more than 3,600 startups through our Inception program. Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to design, train, and deploy neural networks in applications using our accelerated computing platform. 
+
+Extending our technology and platform leadership in visual computing. We believe that visual computing is fundamental to the continued expansion and evolution of computing. We apply our research and development resources to extending our leadership in visual computing, enabling us to enhance the user experience for consumer entertainment and professional visualization applications. Our technologies are instrumental in driving gaming forward, as developers leverage our libraries and algorithms to create near-cinematic and VR experiences. Our close collaboration with game developers allows us to deliver an optimized gaming experience on our GeForce platform. Our GeForce Experience gaming application further enhances each gamer&#8217;s experience by optimizing their PC&#8217;s settings, as well as enabling the recording and sharing of gameplay. We also enable interactive graphics applications - such as games, movie and photo editing and design software - to be accessed by almost any device, almost anywhere, through our cloud platforms such as GRID for enterprise and GeForce NOW for gaming. 
+
+Advancing the leading autonomous vehicle platform. We believe the advent of AV will soon revolutionize the transportation industry. In our view, AI is the key technology enabler of this opportunity, as the algorithms required for autonomous driving - such as perception, localization, and planning - are too complex for legacy hand-coded approaches, and will run on multiple trained neural networks instead. Therefore, we provided a full functionally safe AI-based hardware and software solution for the AV market under the DRIVE brand, which we are bringing to market through our partnerships with automotive original equipment manufacturers, or OEMs, tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry to solve the complex problems arising from the shift to autonomous driving. 
+
+Leveraging our intellectual property. We believe our intellectual property is a valuable asset that can be accessed by our customers and partners through licenses and development agreements when they desire to build such capabilities directly into their own products, or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology. 
+
+Sales and Marketing 
+
+Our sales strategy involves working with end customers and various industry ecosystems through our partner network. Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient GPU and embedded system-on-a-chip, or SOC, platforms. Our sales and marketing teams, located across our global markets, work closely with end customers in each industry. Our partner network incorporates each industry's respective OEMs, original device manufacturers, or ODMs, system builders, add-in board manufacturers, or AIBs, retailers/distributors, internet and cloud service providers, automotive manufacturers and tier-1 automotive suppliers, mapping companies, start-ups, and other ecosystem participants. 
+
+Members of our sales team have technical expertise and product and industry knowledge. We also employ a team of application engineers to assist our partner network in designing, testing, and qualifying system designs that incorporate our platforms. We believe that the depth and quality of our design support are key to improving our partner network&#8217;s time-to-market, maintaining a high level of customer satisfaction, and fostering relationships that encourage our end customers and partner network to use the next generation of our products within each platform. 
+
+To encourage the development of applications optimized for our GPUs, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel engage with key software developers to promote and discuss our platforms, as well as to ascertain individual product requirements and solve technical problems. 
+
+Our developer program makes our products available to developers prior to launch in order to encourage the development of AI frameworks, Software Development Kits, and Application Programming Interfaces, or APIs, for software applications and game titles that are optimized for our platforms. Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our GPU and CUDA platforms. We now have over 1.6 million registered developers across our platforms, including accelerated computing, gaming, deep learning, autonomous machines, and others. 
+
+As NVIDIA&#8217;s business has evolved from a focus primarily on gaming products to broader markets, and from chips to platforms and complete systems, so, too, have our avenues to market. Thus, in addition to sales to customers in our partner network, certain of our platforms are also sold through e-tail channels, or direct to cloud service providers and enterprise customers. 
+
+Sales to Dell Technologies Inc., or Dell, accounted for 11% of our total revenue for fiscal year 2020. 
+
+Backlog 
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as our shipment schedules are subject to revisions that reflect changes in both the customers' requirements and in manufacturing availability. Our industry is characterized by relatively short lead time orders and delivery schedules, thus, we believe that only a small portion of our backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is not significant. 
+
+Seasonality 
+
+Our GPU and Tegra processor platforms serve many markets from consumer PC gaming to enterprise workstations to government and cloud service provider data centers, although a majority of our revenue stems from the consumer industry. Our consumer products typically see stronger revenue in the second half of our fiscal year. In addition, based on the production schedules of key customers, some of our products for notebooks or game consoles typically generate stronger revenue in the second and third quarters, and weaker revenue in the fourth and first quarters. However, there can be no assurance that this trend will continue. 
+
+Manufacturing 
+
+We do not directly manufacture semiconductors used for our products. Instead, we utilize a fabless manufacturing strategy, whereby we employ world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the significant costs and risks associated with owning and operating manufacturing operations. While we may directly procure certain raw materials used in the production of our products, such as substrates and a variety of components, our suppliers are responsible for procurement of the majority of the raw materials used in the production of our products. As a result, we can focus our resources on product design, additional quality assurance, marketing, and customer support. 
+
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited and Samsung Electronics Co. Ltd, to produce our semiconductor wafers. We then utilize independent subcontractors, such as Advanced Semiconductor Engineering, Inc., Amkor Technology, BYD Auto Co. Ltd., Hon Hai Precision Industry Co., Ltd., JSI Logistics Ltd., King Yuan Electronics Co., Ltd., and Siliconware Precision Industries Company Ltd. to perform assembly, testing, and packaging of most of our products and platforms. We purchase substrates from IbidenCo. Ltd., Kinsus Interconnect Technology Corporation, and Unimicron Technology Corporation, and memory from Micron Technology, Samsung Semiconductor, Inc., and SK Hynix. 
+
+We typically receive semiconductor products from our subcontractors, perform incoming quality assurance and configuration, and then ship the semiconductors to contract equipment manufacturers, or CEMs, distributors, motherboard and AIB customers from our third-party warehouse in Hong Kong. Generally, these manufacturers assemble and test the boards based on our design kit and test specifications, and then ship our products to retailers, system builders, or OEMs as motherboard and AIB solutions. 
+
+We also utilize industry-leading contract manufacturers, or CMs, such as BYD and Hon Hai Precision Industry Co., and ODMs such as Quanta Computer and Wistron Corporation, to manufacture some of our products for sale directly to end customers. In those cases, key elements such as the GPU, SoC and memory are often consigned by us to the CMs, who are responsible for the procurement of other components used in the production process. 
+
+Working Capital 
+
+We focus considerable attention on managing our inventories and other working-capital-related items. We manage inventories by communicating with our customers and partners and then using our industry experience to forecast demand on a platform-by-platform basis. We then place manufacturing orders for our products that are based on forecasted demand. We generally maintain substantial inventories of our products. A substantial amount of our inventories is maintained as semi-finished products that can be leveraged across a wide range of our processors to balance our customer demands. 
+
+Our existing cash, cash equivalents and marketable securities balances increased by 47% to $10.90 billion at the end of fiscal year 2020 compared with the end of fiscal year 2019 . 
+
+Competition 
+
+The market for our products is intensely competitive and is characterized by rapid technological change and evolving industry standards. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing, and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers and partners will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be lower priced than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share. 
+
+A significant source of competition comes from companies that provide or intend to provide GPUs, embedded SOCs, and other accelerated and AI computing processor products. Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes. 
+
+Our current competitors include: 
+
+##TABLE_START &#8226; 
+
+suppliers and licensors designing discrete and integrated GPUs and other accelerated computing solutions, including chipsets that incorporate 3D graphics, or HPC, such as Advanced Micro Devices, or AMD, Intel Corporation, or Intel, and Xilinx, Inc.; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+large internet services companies with internal teams designing chips that incorporates HPC or accelerated computing functionality as part of their internal solutions or platforms, such as Alphabet Inc.; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+suppliers of SoC products that are embedded into automobiles, autonomous machines, and gaming devices, such as Ambarella, Inc., AMD, Broadcom Inc., Intel, Qualcomm Incorporated, Renesas Electronics Corporation, Samsung, and Xilinx, Inc. or companies with internal teams designing SoC products for internal use, such as Tesla Motors. 
+
+##TABLE_END Patents and Proprietary Rights 
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our intellectual property in the United States and internationally. Our currently issued patents have expiration dates from March 2020 to October 2039. We have numerous patents issued, allowed, and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations, and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This decreased protection makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: 
+
+##TABLE_START &#8226; 
+
+the location in which our products are manufactured; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+our strategic technology or product directions in different countries; 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and 
+
+##TABLE_END##TABLE_START &#8226; 
+
+the commercial significance of our operations and our competitors' operations in particular countries and regions. 
+
+##TABLE_END We have also licensed technology from third parties and expect to continue to enter into such license agreements. 
+
+Employees 
+
+As of January 26, 2020 , we had 13,775 employees, 9,823 of whom were engaged in research and development and 3,952 of whom were engaged in sales, marketing, operations, and administrative positions. 
+
+Environmental Regulatory Compliance 
+
+To date, we have not incurred significant expenses related to environmental regulatory compliance matters. 
+
+Information About Our Executive Officers 
+
+The following sets forth certain information regarding our executive officers, their ages and positions as of February 14, 2020 : 
+
+##TABLE_START Name 
+
+&#160; 
+
+Age 
+
+&#160; 
+
+Position 
+
+Jen-Hsun Huang 
+
+&#160; 
+
+&#160; 
+
+President and Chief Executive Officer 
+
+Colette M. Kress 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and Chief Financial Officer 
+
+Ajay K. Puri 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Worldwide Field Operations 
+
+Debora Shoquist 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President, Operations 
+
+Timothy S. Teter 
+
+&#160; 
+
+&#160; 
+
+Executive Vice President and General Counsel 
+
+##TABLE_END
+
+Jen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer and a member of the Board of Directors since our inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, where he held a variety of positions including as Director of Coreware, the business unit responsible for LSI's SOC. From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University. 
+
+Colette M. Kress joined NVIDIA in 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress most recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations Finance organization at Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was responsible for financial strategy, planning, reporting and business development for all business segments, engineering and operations. From 1997 to 2010 Ms. Kress held a variety of positions at Microsoft Corporation, a software company, including, beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms. Kress was responsible for financial strategy, planning, reporting and business development for the division. Prior to joining Microsoft, Ms. Kress spent eight years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions. Ms. Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist University. 
+
+Ajay K. Puri joined NVIDIA in 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Field Operations in 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard Company, an information technology company, Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments Incorporated. Mr. Puri holds a B.S.E.E. degree from the University of Minnesota, an M.S.E.E. degree from the California Institute of Technology and an M.B.A. degree from Harvard Business School. 
+
+Debora Shoquist joined NVIDIA in 2007 as Senior Vice President of Operations and in 2009 became Executive Vice President of Operations. Her role has since expanded with responsibility added for Facilities in 2013, and for Information Technology in 2015. Prior to NVIDIA, Ms. Shoquist served from 2004 to 2007 as Executive Vice President of Operations at JDS Uniphase Corp., a provider of communications test and measurement solutions and optical products for the telecommunications industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, and at Hewlett-Packard Corp. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University. 
+
+Timothy S. Teter joined NVIDIA in 2017 as Senior Vice President, General Counsel and Secretary and became Executive Vice President, General Counsel and Secretary in February 2018. Prior to NVIDIA, Mr. Teter spent more than two decades at the law firm of Cooley LLP. He was most recently a partner at Cooley, where he focused on litigating patent and technology related matters. Prior to attending law school, he worked as an engineer at Lockheed Missiles and Space Company. Mr. Teter holds a B.S. degree in Mechanical Engineering from the University of California at Davis and a J.D. degree from Stanford Law School. 
+
+Available Information 
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as 
+
+amended, are available free of charge on or through our web site, http://www.nvidia.com , as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or the SEC. The SEC&#8217;s website, http://www.sec.gov , contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. Our web site and the information on it or connected to it are not a part of this Annual Report on Form 10-K. 
+

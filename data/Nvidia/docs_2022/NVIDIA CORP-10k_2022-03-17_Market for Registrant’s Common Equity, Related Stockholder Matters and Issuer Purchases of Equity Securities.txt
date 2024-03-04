@@ -1,0 +1,41 @@
+NVIDIA CORP 10K 2022-03-17 
+  ITEM 5. MARKET FOR REGISTRANT&#8217;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Our common stock is traded on the Nasdaq Global Select Market under the symbol NVDA. Public trading of our common stock began on January 22, 1999. Prior to that, there was no public market for our common stock. As of March 11, 2022, we had approximately 313 registered shareholders, not including those shares held in street or nominee name. 
+
+On July 19, 2021, we executed a four-for-one stock split of our common stock, such that each stockholder of record at the close of business on June 21, 2021 received a dividend of three additional shares of common stock for every share held on the record date, or the Stock Split. All share, equity award, and per share amounts and related shareholders' equity balances presented herein have been retroactively adjusted to reflect the Stock Split. 
+
+Issuer Purchases of Equity Securities 
+
+Beginning August 2004, our Board of Directors authorized us to repurchase our stock. 
+
+Since the inception of our share repurchase program, we have repurchased an aggregate of 1.04 billion shares for a total cost of $7.08 billion through January 30, 2022. 
+
+The repurchases can be made in the open market, in privately negotiated transactions, or in structured share repurchase programs, and can be made in one or more larger repurchases, in compliance with Rule 10b-18 of the Securities Exchange Act of 1934, as amended, subject to market conditions, applicable legal requirements, and other factors. The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion. 
+
+We did not repurchase any shares during fiscal year 2022. As of January 30, 2022, we are authorized, subject to certain specifications, to repurchase shares of our common stock up to $7.24 billion through December 2022. 
+
+In fiscal year 2022, we paid $399 million in quarterly cash dividends. Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+During the fourth quarter of fiscal year 2022, our Board of Directors approved the retirement of all existing 349 million treasury shares. Refer to Note 15 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion regarding the retirement of our treasury shares. 
+
+Restricted Stock Unit Share Withholding 
+
+We withhold common stock shares associated with net share settlements to cover tax withholding obligations upon the vesting of restricted stock unit awards under our employee equity incentive program. During fiscal year 2022, we withheld approximately 8 million shares for a total value of $1.90 billion through net share settlements. Beginning with the fourth quarter of fiscal year 2022, the tax withholding is recorded as a reduction to additional paid-in capital, with withheld shares assuming the status of authorized and unissued shares. Refer to Note 4 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion regarding our equity incentive plans. 
+
+Recent Sales of Unregistered Securities and Use of Proceeds 
+
+During fiscal year 2022, we issued a total of 175,333 shares of our common stock as consideration in connection with acquisitions, all in private transactions exempt from the registration requirements of the Securities Act of 1933, as amended, pursuant to Section 4(a)(2), Regulation D, or Regulation S. 
+
+Stock Performance Graphs 
+
+The following graph compares the cumulative total shareholder return for our common stock, the S&#38;P 500 Index, and the Nasdaq 100 Index for the five years ended January 30, 2022. The graph assumes that $100 was invested on January 29, 2017 in our common stock and in each of the S&#38;P 500 Index and the Nasdaq 100 Index. Our common stock is a component of each of the presented indices. Total return assumes reinvestment of dividends in each of the indices indicated. Total return is based on historical results and is not intended to indicate future performance. 
+
+*$100 invested on 1/29/17 in stock and in indices, including reinvestment of dividends. 
+
+Source: FactSet financial data and analytics. 
+
+##TABLE_START &#160; 1/29/2017 1/28/2018 1/27/2019 1/26/2020 1/31/2021 1/30/2022 NVIDIA Corporation $ 100.00 $ 218.55 $ 144.24 $ 226.48 $ 470.59 $ 828.15 S&#38;P 500 $ 100.00 $ 125.54 $ 122.64 $ 149.23 $ 174.97 $ 215.72 Nasdaq 100 $ 100.00 $ 136.00 $ 136.62 $ 179.79 $ 260.70 $ 303.21 ##TABLE_END
+
+ITEM 6. (RESERVED) 
+

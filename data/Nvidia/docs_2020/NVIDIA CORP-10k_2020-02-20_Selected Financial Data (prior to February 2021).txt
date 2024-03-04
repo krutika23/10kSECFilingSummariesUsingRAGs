@@ -1,0 +1,483 @@
+NVIDIA CORP 10K 2020-02-20 
+  ITEM 6. SELECTED FINANCIAL DATA 
+
+The following selected financial data should be read in conjunction with our financial statements and the notes thereto, and with Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.&#8221; The Consolidated Statements of Income data for fiscal years 2020 , 2019 , and 2018 and the Consolidated Balance Sheets data as of January 26, 2020 and January 27, 2019 have been derived from and should be read in conjunction with our audited consolidated financial statements and the notes thereto included in Part IV, Item 15 in this Annual Report on Form 10-K. We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2020, 2019, 2018, and 2017 were 52-week years and fiscal year 2016 was a 53-week year. 
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 
+
+&#160; 
+
+January 27, 
+
+&#160; 
+
+January 28, 
+
+&#160; 
+
+January 29, 
+
+&#160; 
+
+January 31, 
+
+2016 (A) 
+
+Consolidated Statements of Income Data: 
+
+(In millions, except per share data) 
+
+Revenue 
+
+$ 
+
+10,918 
+
+&#160; 
+
+$ 
+
+11,716 
+
+&#160; 
+
+$ 
+
+9,714 
+
+&#160; 
+
+$ 
+
+6,910 
+
+&#160; 
+
+$ 
+
+5,010 
+
+Income from operations 
+
+$ 
+
+2,846 
+
+&#160; 
+
+$ 
+
+3,804 
+
+&#160; 
+
+$ 
+
+3,210 
+
+&#160; 
+
+$ 
+
+1,934 
+
+&#160; 
+
+$ 
+
+Net income 
+
+$ 
+
+2,796 
+
+&#160; 
+
+$ 
+
+4,141 
+
+&#160; 
+
+$ 
+
+3,047 
+
+&#160; 
+
+$ 
+
+1,666 
+
+&#160; 
+
+$ 
+
+Net income per share: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+$ 
+
+4.59 
+
+&#160; 
+
+$ 
+
+6.81 
+
+&#160; 
+
+$ 
+
+5.09 
+
+&#160; 
+
+$ 
+
+3.08 
+
+&#160; 
+
+$ 
+
+1.13 
+
+Diluted 
+
+$ 
+
+4.52 
+
+&#160; 
+
+$ 
+
+6.63 
+
+&#160; 
+
+$ 
+
+4.82 
+
+&#160; 
+
+$ 
+
+2.57 
+
+&#160; 
+
+$ 
+
+1.08 
+
+Weighted average shares used in per share computation: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Diluted 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+##TABLE_END
+
+##TABLE_START &#160; 
+
+Year Ended 
+
+&#160; 
+
+January 26, 
+
+2020 (C) 
+
+&#160; 
+
+January 27, 
+
+2019 (B,C) 
+
+&#160; 
+
+January 28, 
+
+2018 (B,C) 
+
+&#160; 
+
+January 29, 
+
+2017 (B,C) 
+
+&#160; 
+
+January 31, 
+
+2016 (B) 
+
+Consolidated Balance Sheets Data: 
+
+(In millions, except per share data) 
+
+Cash, cash equivalents and marketable securities 
+
+$ 
+
+10,897 
+
+&#160; 
+
+$ 
+
+7,422 
+
+&#160; 
+
+$ 
+
+7,108 
+
+&#160; 
+
+$ 
+
+6,798 
+
+&#160; 
+
+$ 
+
+5,037 
+
+Total assets (D) 
+
+$ 
+
+17,315 
+
+&#160; 
+
+$ 
+
+13,292 
+
+&#160; 
+
+$ 
+
+11,241 
+
+&#160; 
+
+$ 
+
+9,841 
+
+&#160; 
+
+$ 
+
+7,370 
+
+Debt obligations 
+
+$ 
+
+1,991 
+
+&#160; 
+
+$ 
+
+1,988 
+
+&#160; 
+
+$ 
+
+2,000 
+
+&#160; 
+
+$ 
+
+2,779 
+
+&#160; 
+
+$ 
+
+1,413 
+
+Convertible debt conversion obligation 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+Total shareholders&#8217; equity 
+
+$ 
+
+12,204 
+
+&#160; 
+
+$ 
+
+9,342 
+
+&#160; 
+
+$ 
+
+7,471 
+
+&#160; 
+
+$ 
+
+5,762 
+
+&#160; 
+
+$ 
+
+4,469 
+
+Cash dividends declared and paid per common share (E) 
+
+$ 
+
+0.640 
+
+&#160; 
+
+$ 
+
+0.610 
+
+&#160; 
+
+$ 
+
+0.570 
+
+&#160; 
+
+$ 
+
+0.485 
+
+&#160; 
+
+$ 
+
+0.395 
+
+##TABLE_END
+
+&#160; 
+
+##TABLE_START (A) 
+
+In fiscal year 2016, we began the wind down of our Icera modem operations. As a result, our income from operations for fiscal year 2016 included $131 million of restructuring and other charges. 
+
+##TABLE_END##TABLE_START (B) 
+
+In fiscal year 2014, we issued Convertible Notes in the aggregate principal amount of $1.50 billion . The Convertible Notes first became convertible as of February 1, 2016 and matured on December 1, 2018. 
+
+##TABLE_END##TABLE_START (C) 
+
+In fiscal year 2017, we issued $1.00 billion of the Notes Due 2021, and $1.00 billion of the Notes Due 2026. Interest on the Notes is payable on March 16 and September 16 of each year, beginning on March 16, 2017. Refer to Note 12 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+##TABLE_END##TABLE_START (D) 
+
+In fiscal year 2020, we adopted the accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet. Refer to Note 3 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+##TABLE_END##TABLE_START (E) 
+
+In May 2015, we increased the quarterly cash dividend from $0.085 per share, or $0.34 per share on an annual basis, to $0.0975 per share, or $0.39 per share on an annual basis. In November 2015, we increased the quarterly cash dividend to $0.115 per share, or $0.46 per share on an annual basis. In November 2016, we increased the quarterly cash dividend to $0.14 per share, or $0.56 per share on an annual basis. In November 2017, we increased the quarterly cash dividend to $0.15 per share, or $0.60 per share on an annual basis. In November 2018, we increased the quarterly cash dividend to $0.16 per share, or $0.64 per share on an annual basis. 
+
+##TABLE_END
+

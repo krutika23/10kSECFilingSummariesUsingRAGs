@@ -1,0 +1,23 @@
+NVIDIA CORP 10K 2023-02-24 
+  ITEM 9A. CONTROLS AND PROCEDURES 
+
+Controls and Procedures 
+
+Disclosure Controls and Procedures 
+
+Based on their evaluation as of January 29, 2023, our management, including our Chief Executive Officer and Chief Financial Officer, has concluded that our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) were effective to provide reasonable assurance. 
+
+Management&#8217;s Annual Report on Internal Control Over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of January 29, 2023 based on the criteria set forth in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation under the criteria set forth in Internal Control &#8212; Integrated Framework , our management concluded that our internal control over financial reporting was effective as of January 29, 2023. 
+
+The effectiveness of our internal control over financial reporting as of January 29, 2023 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in its report which is included herein. 
+
+Changes in Internal Control Over Financial Reporting 
+
+There have been no changes in our internal control over financial reporting during the quarter ended January 29, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. In fiscal year 2022, we began an upgrade of our enterprise resource planning, or ERP, system, which will update much of our existing core financial systems. The ERP system is designed to accurately maintain our financial records used to report operating results. The upgrade will occur in phases. During the second quarter of fiscal year 2023, we completed the consolidated financial reporting phase of the implementation, which included updating our internal control over financial reporting. We will continue to evaluate each quarter whether there are changes that materially affect our internal control over financial reporting. 
+
+Inherent Limitations on Effectiveness of Controls 
+
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls, will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within NVIDIA have been detected. 
+
